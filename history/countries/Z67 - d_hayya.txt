@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+technology_group = east_african
+religion = shiite
+primary_culture = nubian
+capital = 2770
+1392.1.7= {
+	add_prestige = 24
+	add_treasury = 56
+	add_loan = {
+		interest_modifier = 0.06 #Plus the default 4% = 10% of usury
+		fixed_interest = 1
+		duration = 60
+	}
+}

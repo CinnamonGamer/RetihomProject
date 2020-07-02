@@ -1,0 +1,112 @@
+graphical_culture = indiangfx
+color = { 139 131 22 }
+revolutionary_colors = { 2 8 2 }
+historical_idea_groups = {
+	aristocracy_ideas
+	offensive_ideas
+	defensive_ideas
+	diplomatic_ideas
+	religious_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_footsoldier
+	indian_rifle
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	reformed_mughal_mansabdar
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Allat #1" = 10
+	"Amba-Prasad #1" = 10
+	"Amutrao #0" = 0
+	"Anahilla #0" = 0
+	"Anubai #0" = -1
+	"Baghpal #1" = 10
+	"Bairath #3" = 10
+	"Bhert-Patt #2" = 10
+	"Bhiubai #0" = -1
+	"Bhumpal #0" = 0
+	"Draupada #0" = 0
+	"Durgabai #0" = -1
+	"Hanspal #1" = 10
+	"Indradatta #0" = 0
+	"Jay-Singh #0" = 0
+	"Kailaspala #0" = 0
+	"Kalbhoj #1" = 10
+	"Keerti-Verma #1" = 10
+	"Khuman #3" = 10
+	"Kuntapala #1" = 10
+	"Mahahayak #1" = 10
+	"Mahalakshmi #0" = -1
+	"Mattat #1" = 10
+	"Moropant #0" = 0
+	"Nar-Verma #1" = 10
+	"Narwahan #1" = 10
+	"Padmini #0" = -1
+	"Pavak #5" = 10
+	"Rudaladevi #0" = -1
+	"Saibai #0" = -1
+	"Shakti-Kumar #1" = 10
+	"Shaliwahan #1" = 10
+	"Shuchi-Verma #1" = 10
+	"Sinha #1" = 10
+	"Tukkoji #0" = 0
+	"Yesubai #0" = -1
+	"Yograj #1" = 10
+}
+leader_names = {
+	"Bargujar"
+	"Bhaal"
+	"Bhati"
+	"Chandela"
+	"Chauhan"
+	"Chudasama"
+	"Chundawa"
+	"Das"
+	"Gohil"
+	"Jadeja"
+	"Jadon"
+	"Khumba"
+	"Mori"
+	"Pratap"
+	"Sahu"
+	"Saran"
+	"Singh"
+	"Sisodiya"
+	"Tomara"
+	"Vaghela"
+}
+ship_names = {
+	"Chambal"
+	"Devi"
+	"Durga"
+	"Gayatri"
+	"Ghaggar"
+	"Godwar"
+	"Jalsena"
+	"Kala Jahazi"
+	"Lakshmi"
+	"Lal Jahazi"
+	"Luni"
+	"Merwar ka Nav"
+	"Nausena"
+	"Nav ka Yudh"
+	"Nila Jahazi"
+	"Padmini"
+	"Parvati"
+	"Radha"
+	"Rani"
+	"Ratri"
+	"Sagar"
+	"Sarasvati"
+	"Sekhawati"
+	"Sita"
+}

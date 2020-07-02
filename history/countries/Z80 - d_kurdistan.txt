@@ -1,0 +1,11 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = eastern
+religion = jewish
+primary_culture = israeli
+capital = 2206
+1392.1.7= {
+	add_prestige = -6
+	add_treasury = 70
+}

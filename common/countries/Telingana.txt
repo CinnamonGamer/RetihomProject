@@ -1,0 +1,99 @@
+graphical_culture = indiangfx
+color = { 158 164 225 }
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	quantity_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+historical_units = {
+	indian_archers
+	indian_arquebusier
+	indian_footsoldier
+	indian_rifle
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Aparâcitavarman #1" = 10
+	"Apsaradeva #1" = 10
+	"Atitta #2" = 10
+	"Baladitya #2" = 10
+	"Barjena #0" = 0
+	"Cataiyavarman #1" = 10
+	"Chandrabbalabbe #1" = -1
+	"Dharmapala #0" = 0
+	"Eccavarâkan #1" = 10
+	"Gauri #0" = -1
+	"Irâcacuntari #1" = -1
+	"Jayavarma #0" = 0
+	"Jogama #0" = 0
+	"Kakanvati #0" = -1
+	"Kontân #1" = 10
+	"Lakshmi #0" = -1
+	"Lilavati #0" = -1
+	"Maharani #0" = -1
+	"Naltêviyâr #0" = -1
+	"Nandaprabhanjanavarman #0" = 0
+	"Nayanadevi #0" = -1
+	"Obayamma #0" = -1
+	"Paramananda #0" = 0
+	"Pertal #1" = -1
+	"Prasadhanadevi #0" = -1
+	"Prasannamatra #0" = 0
+	"Prithivimaharaja #1" = 10
+	"Ramachandra #0" = 0
+	"Revakanimmadi #0" = -1
+	"Shantaladevi #0" = -1
+	"Singhana #5" = 10
+	"Somesvara #1" = 10
+	"Subhakaradeva #0" = 0
+	"Tripuvanacakkaravattikal #2" = 10
+	"Udita #0" = 0
+	"Vijnanavati #0" = -1
+	"Viravijaya #1" = 10
+	"Vishnugopa #2" = 10
+	"Yajiyavati #0" = -1
+}
+leader_names = {
+	"Ambadeva"
+	"Damerla"
+	"Gannaiah"
+	"Gona"
+	"Jannigadeva"
+	"Malraju"
+	"Meka"
+	"Racha"
+	"Suryavamsa"
+	"Tripurar"
+	"Velugoti"
+}
+ship_names = {
+	"Anantavarman"
+	"Bishnupriya"
+	"Devarakonda"
+	"Godavari"
+	"Hidimba"
+	"Kataya"
+	"Konark"
+	"Krishnapriya"
+	"Kumar"
+	"Lakshmi"
+	"Masulipatnam"
+	"Naga"
+	"Paradeep"
+	"Parvati"
+	"Rachakonda"
+	"Radha"
+	"Rahu"
+	"Rajahmundry"
+	"Rakshasa"
+	"Sarasvati"
+	"Satapada"
+	"Vizianagaram"
+	"Warangal"
+}

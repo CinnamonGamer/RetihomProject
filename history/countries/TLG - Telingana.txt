@@ -1,0 +1,11 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 2
+technology_group = indian
+religion = hinduism
+primary_culture = oriya
+capital = 532
+1392.1.7= {
+	add_prestige = 73
+	add_treasury = 49
+}

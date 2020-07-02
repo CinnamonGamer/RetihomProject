@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = rajput_kingdom
+government_rank = 1
+technology_group = indian
+religion = hinduism
+primary_culture = rajput
+capital = 447
+1392.1.7= {
+	monarch = {
+		name = "Ratnapala"
+		dynasty = "Paramara"
+		adm = 3
+		dip = 5
+		mil = 3
+		birth_date = 1343.4.23
+		religion = hinduism
+		culture = rajput
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = tolerant_personality
+	queen = {
+		name = "Bhuyikadevi"
+		dynasty = "Panwar"
+		adm = 2
+		dip = 3
+		mil = 3
+		country_of_origin = Y02
+		birth_date = 1342.6.15
+		death_date = 1402.6.15
+		female = yes
+		religion = hinduism
+		culture = malvi
+	}
+	add_queen_personality = righteous_personality
+	add_queen_personality = tolerant_personality
+	heir = {
+		name = "Ratnapala"
+		monarch_name = "Ratnapala II"
+		dynasty = "Paramara"
+		adm = 3
+		dip = 6
+		mil = 5
+		birth_date = 1362.1.23
+		death_date = 1427.1.23
+		claim = 89
+		religion = hinduism
+		culture = malvi
+	}
+	add_heir_personality = scholar_personality
+	add_heir_personality = strict_personality
+}
+1392.1.7= {
+	add_prestige = 57
+	add_treasury = 55
+}

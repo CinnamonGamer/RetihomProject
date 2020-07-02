@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = irish
+capital = 376
+1392.1.7= {
+	monarch = {
+		name = "Forbassach"
+		dynasty = "Dunbar"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 1341.10.23
+		religion = catholic
+		culture = irish
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = tolerant_personality
+	queen = {
+		name = "Eremberga"
+		dynasty = "de Warenne"
+		adm = 3
+		dip = 3
+		mil = 4
+		country_of_origin = CNN
+		birth_date = 1348.2.12
+		death_date = 1408.2.12
+		female = yes
+		religion = catholic
+		culture = normand
+	}
+	add_queen_personality = expansionist_personality
+	add_queen_personality = tactical_genius_personality
+	heir = {
+		name = "Áed"
+		monarch_name = "Áed III"
+		dynasty = "Dunbar"
+		adm = 5
+		dip = 4
+		mil = 5
+		birth_date = 1373.7.15
+		death_date = 1438.7.15
+		claim = 89
+		religion = catholic
+		culture = irish
+	}
+	add_heir_personality = midas_touched_personality
+	add_heir_personality = tolerant_personality
+}
+1392.1.7= {
+	add_prestige = 83
+	add_treasury = 68
+}

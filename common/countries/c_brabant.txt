@@ -1,0 +1,14 @@
+graphical_culture = westerngfx
+color = { 200 100 65 }
+monarch_names = {
+	"Ada #0" = -1
+	"Adalhard #0" = 0
+	"Ambay #0" = 0
+	"Bertold #0" = 0
+	"Jacoba #0" = -1
+	"Juana #0" = -1
+	"Kaspar #0" = 0
+	"Manegold #0" = 0
+	"Mayor #0" = -1
+	"Walpurga #0" = -1
+}

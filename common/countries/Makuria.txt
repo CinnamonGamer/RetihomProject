@@ -1,0 +1,90 @@
+graphical_culture = easterngfx
+color = { 184 80 52 }
+revolutionary_colors = { 0 1 0 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	quantity_ideas
+	offensive_ideas
+	spy_ideas
+	economic_ideas
+	quality_ideas
+}
+historical_units = {
+	adal_guerilla_warfare
+	adal_gunpowder_warfare
+	african_abyssinian_cavalry
+	african_abyssinian_light_cavalry
+	african_dragoon
+	african_hill_warfare
+	african_hussar
+	african_somali_cavalry
+	african_spearmen
+	bantu_tribal_warfare
+	westernized_adal
+}
+monarch_names = {
+	"Abdul-Haq #1" = 10
+	"Abdul-Madjid #1" = 10
+	"Abdullah #1" = 10
+	"Abraam #1" = 10
+	"Abu-Bakr #1" = 10
+	"Agathonikos #1" = 10
+	"Athanasia #0" = -1
+	"Basileios #1" = 10
+	"Chael #1" = 10
+	"Emmanouel #2" = 10
+	"Ephannê #1" = 10
+	"Fana #0" = -1
+	"Georgios #3" = 10
+	"Hany #0" = 0
+	"Iohannes #1" = 10
+	"Jori #0" = 0
+	"Kabil #1" = 10
+	"Khael #1" = 10
+	"Kollouthos #1" = 10
+	"Kyriakos #1" = 10
+	"Lazaros #3" = 10
+	"Leontios #1" = 10
+	"Mari #1" = 10
+	"Mariana #1" = 10
+	"Markos #1" = 10
+	"Merkourios #1" = 10
+	"Pultzelina #0" = -1
+	"Raphael #1" = 10
+	"Ridwan #1" = 10
+	"Sergios #1" = 10
+	"Shenouda #1" = 10
+	"Simeon #1" = 10
+	"Solomon #1" = 10
+	"Stephanos #1" = 10
+	"Stoi #0" = -1
+	"Yared #1" = 10
+	"Zakharias #3" = 10
+}
+leader_names = {
+	"Abboud"
+	"Fung"
+	"Garang"
+	"Kayra"
+	"Keira"
+	"Kelueljang"
+	"Lugor"
+	"Nuer"
+	"Shol"
+	"Taha"
+}
+ship_names = {
+	"Amenirdis"
+	"Amon"
+	"Apedemak"
+	"Arensnuphis"
+	"Bes"
+	"Dedwen"
+	"Khnum"
+	"Mandulis"
+	"Mut"
+	"Taweret"
+	"Tefnut"
+}

@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = persian
+capital = 452
+fixed_capital = 452
+1392.1.7= {
+	monarch = {
+		name = "Behrouz"
+		dynasty = "Kimak"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 1335.6.8
+		religion = sunni
+		culture = persian
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Dilek"
+		dynasty = "Bannu"
+		adm = 3
+		dip = 5
+		mil = 5
+		country_of_origin = Y16
+		birth_date = 1340.5.12
+		death_date = 1400.5.12
+		female = yes
+		religion = sunni
+		culture = turkmeni
+	}
+	add_queen_personality = benevolent_personality
+	add_queen_personality = greedy_personality
+	heir = {
+		name = "Behnaz"
+		monarch_name = "Behnaz"
+		dynasty = "Kimak"
+		adm = 2
+		dip = 1
+		mil = 3
+		birth_date = 1384.3.3
+		death_date = 1449.3.3
+		female = yes
+		claim = 89
+		religion = sunni
+		culture = azerbaijani
+	}
+	add_heir_personality = calm_personality
+	add_heir_personality = zealot_personality
+}
+1392.1.7= {
+	add_prestige = 60
+	add_treasury = 92
+}

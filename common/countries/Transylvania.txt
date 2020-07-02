@@ -1,0 +1,98 @@
+graphical_culture = westerngfx
+color = { 211 207 173 }
+revolutionary_colors = { 13 16 8 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	religious_ideas
+}
+historical_units = {
+	eastern_carabinier
+	eastern_knights
+	eastern_medieval_infantry
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	ottoman_lancer
+	ottoman_new_model
+	ottoman_nizami_cedid
+	ottoman_reformed_janissary
+	ottoman_reformed_spahi
+	ottoman_sekban
+	ottoman_toprakli_dragoon
+	ottoman_toprakli_hit_and_run
+	slavic_stradioti
+}
+monarch_names = {
+	"Alzek #1" = 10
+	"Anastasia #0" = -1
+	"Andrei #0" = 0
+	"Béla #1" = 10
+	"Csongor #0" = 0
+	"Dezsõ #1" = 10
+	"Domoszló #1" = 10
+	"Donát #1" = 10
+	"Dox #1" = 10
+	"Dukum #1" = 10
+	"Dénes #2" = 10
+	"Dömötör #0" = 0
+	"Frigyes #1" = 10
+	"Gostum #1" = 10
+	"Gyula #3" = 10
+	"Horca #1" = 10
+	"Ipaos #0" = 0
+	"Ispor #1" = 10
+	"István #1" = 10
+	"Kayghalagh #1" = 10
+	"Levente #1" = 10
+	"László #1" = 10
+	"Marina #0" = -1
+	"Máté #0" = 0
+	"Nándor #0" = 0
+	"Panni #1" = -1
+	"Sámuel #1" = 10
+	"Vilmos #1" = 10
+	"Yani #1" = 10
+	"Yilig #1" = 10
+	"Yugurtu #1" = 10
+	"Zabergan #1" = 10
+	"Zoltán #1" = 10
+}
+leader_names = {
+	"Alvinczy"
+	"Apafi"
+	"Bethlen"
+	"Bocskai"
+	"Báthory"
+	"Dózsa"
+	"Gyulai"
+	"Kemény"
+	"Lackovic"
+	"Lázár"
+	"Rhédey"
+	"Rákóczy"
+	"Sasul"
+	"Thököly"
+	"Zabanius"
+	"Zrinyi"
+	"Zápolya"
+	"von Brukenthal"
+	"von Harteneck"
+}
+ship_names = {
+	"Antal Budai Nagy"
+	"Gyula"
+	"Hunyadi Janos"
+	"Ladislas Kan"
+	"Legforus"
+	"Leustachius"
+	"Mercurius"
+	"Roland Borsza"
+	"Varna"
+	"Vaskapu"
+}

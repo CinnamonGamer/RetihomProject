@@ -1,0 +1,40 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = eastern
+religion = catholic
+primary_culture = russian
+capital = 4250
+1392.1.7= {
+	monarch = {
+		name = "Yaroslav II"
+		dynasty = "of Sørumsand"
+		adm = 2
+		dip = 4
+		mil = 3
+		birth_date = 1374.7.9
+		religion = catholic
+		culture = russian
+	}
+	add_ruler_personality = lawgiver_personality
+	add_ruler_personality = midas_touched_personality
+	queen = {
+		name = "Anthousa"
+		dynasty = "Kometopoulos"
+		adm = 5
+		dip = 4
+		mil = 3
+		country_of_origin = Z31
+		birth_date = 1366.1.5
+		death_date = 1426.1.5
+		female = yes
+		religion = orthodox
+		culture = goths
+	}
+	add_queen_personality = secretive_personality
+	add_queen_personality = zealot_personality
+}
+1392.1.7= {
+	add_prestige = 22
+	add_treasury = 50
+}

@@ -1,0 +1,40 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 2
+technology_group = western
+religion = catholic
+primary_culture = portugese
+capital = 141
+1392.1.7= {
+	monarch = {
+		name = "Estevainha"
+		dynasty = "Vimaranes"
+		adm = 4
+		dip = 5
+		mil = 5
+		birth_date = 1369.1.6
+		female = yes
+		religion = catholic
+		culture = portugese
+	}
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = scholar_personality
+	queen = {
+		name = "Kuntuvdi"
+		dynasty = "Eldeçyukid"
+		adm = 3
+		dip = 5
+		mil = 4
+		country_of_origin = SER
+		birth_date = 1367.12.7
+		death_date = 1427.12.7
+		religion = catholic
+		culture = cuman
+	}
+	add_queen_personality = lawgiver_personality
+	add_queen_personality = tactical_genius_personality
+}
+1392.1.7= {
+	add_prestige = 38
+	add_treasury = 51
+}

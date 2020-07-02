@@ -1,0 +1,39 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+technology_group = chinese
+religion = vajrayana
+primary_culture = oirats
+capital = 1066
+1392.1.7= {
+	monarch = {
+		name = "Iturgen"
+		dynasty = "Harghasun"
+		adm = 3
+		dip = 2
+		mil = 2
+		birth_date = 1337.1.9
+		religion = vajrayana
+		culture = oirats
+	}
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = tactical_genius_personality
+	queen = {
+		name = "Mandukhai"
+		adm = 1
+		dip = 5
+		mil = 2
+		country_of_origin = Z14
+		birth_date = 1370.2.6
+		death_date = 1430.2.6
+		female = yes
+		religion = sunni
+		culture = astrakhani
+	}
+	add_queen_personality = charismatic_negotiator_personality
+	add_queen_personality = righteous_personality
+}
+1392.1.7= {
+	add_prestige = 9
+	add_treasury = 48
+}

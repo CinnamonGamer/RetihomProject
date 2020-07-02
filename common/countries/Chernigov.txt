@@ -1,0 +1,115 @@
+graphical_culture = easterngfx
+color = { 190 190 190 }
+revolutionary_colors = { 0 1 8 }
+historical_idea_groups = {
+	defensive_ideas
+	expansion_ideas
+	religious_ideas
+	offensive_ideas
+	naval_ideas
+	spy_ideas
+	economic_ideas
+	quality_ideas
+}
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	eastern_carabinier
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	muscovite_caracolle
+	muscovite_cossack
+	muscovite_musketeer
+	muscovite_soldaty
+	russian_cuirassier
+	russian_green_coat
+	russian_lancer
+	russian_mass
+	russian_petrine
+	slavic_stradioti
+}
+monarch_names = {
+	"Aldona #0" = -1
+	"Ankad #0" = 0
+	"Arunas #0" = 0
+	"Boleslava #1" = -1
+	"Bonyak #1" = 10
+	"Danute #0" = -1
+	"Dobre #0" = 0
+	"Dobroslava #0" = -1
+	"Giazis #1" = 10
+	"Gintaras #1" = 10
+	"Girdenis #2" = 10
+	"Girgen #1" = 10
+	"Jaunutis #0" = 0
+	"Kesgaila #0" = 0
+	"Kubasar #2" = 10
+	"Matfei #1" = 10
+	"Olena #0" = -1
+	"Rostislav #1" = 10
+	"Roze #0" = -1
+	"Setyamka #0" = 0
+	"Sevenç #1" = 10
+	"Sibel #1" = -1
+	"Svajone #0" = -1
+	"Sviatoslav #1" = 10
+	"Tatka #0" = -1
+	"Terentiy #1" = 10
+	"Tovtivilas #0" = 0
+	"Uchva #0" = 0
+	"Ulyana #1" = -1
+	"Vasiliy #1" = 10
+	"Veleslava #1" = -1
+	"Vesa #0" = 0
+	"Visvaldis #0" = 0
+	"Vykintas #0" = 0
+	"Yaropolk #0" = 0
+	"Yaroslav #1" = 10
+	"Yelizaveta #0" = -1
+	"Yemelyan #0" = 0
+}
+leader_names = {
+	"Apraksin"
+	"Bagration"
+	"Barclay de Tolly"
+	"Bibikoff"
+	"Bodisco"
+	"Boruffsin"
+	"Golitzin"
+	"Kaibula"
+	"Kamenski"
+	"Kolzoff"
+	"Mensjikov"
+	"Mustislavski"
+	"Ostermann Tolstoy"
+	"Paletskij"
+	"Rajevski"
+	"Schuvalov"
+	"Sjeremetjev"
+	"Sjtjenjatvev"
+	"Tiesenhusen"
+	"Vasiljevitj"
+	"von Buxhoevden"
+	"von Knorring"
+	"von Lascy"
+}
+ship_names = {
+	"Coluna"
+	"Cortiza"
+	"D. Aleksandrovich"
+	"Dmitri Donskoi"
+	"Iausa"
+	"Ivan Kalita"
+	"Klin"
+	"Moscha"
+	"Mosnisk"
+	"Olescho"
+	"Piersek"
+	"Rurik"
+	"Schorna"
+	"Troitzkoy"
+	"Vasiliy I"
+	"Volga"
+	"Wolok"
+}

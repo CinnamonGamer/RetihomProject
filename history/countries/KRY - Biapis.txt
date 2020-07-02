@@ -1,0 +1,25 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = muslim
+religion = jewish
+primary_culture = mizrahi
+capital = 4339
+1392.1.7= {
+	monarch = {
+		name = "Yachya"
+		dynasty = "of Krasnaya"
+		adm = 6
+		dip = 1
+		mil = 4
+		birth_date = 1333.5.26
+		religion = jewish
+		culture = mizrahi
+	}
+	add_ruler_personality = calm_personality
+	add_ruler_personality = industrious_personality
+}
+1392.1.7= {
+	add_prestige = 54
+	add_treasury = 54
+}

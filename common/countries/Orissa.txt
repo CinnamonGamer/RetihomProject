@@ -1,0 +1,113 @@
+graphical_culture = indiangfx
+color = { 210 106 47 }
+revolutionary_colors = { 5 8 0 }
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	quantity_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+historical_units = {
+	indian_archers
+	indian_arquebusier
+	indian_footsoldier
+	indian_rifle
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Ayasobhita #0" = 0
+	"Bhuvanapala #1" = 10
+	"Dattadevi #0" = -1
+	"Devendravarman #0" = 0
+	"Dhruvananda #0" = 0
+	"Gayada #0" = 0
+	"Gayatri #0" = -1
+	"Gopinatha #1" = 10
+	"Gunamaharnava #1" = 10
+	"Janmejaya #4" = 10
+	"Jayasimha #0" = 0
+	"Jayavarma #1" = 10
+	"Kanavati #0" = -1
+	"Kanchana #1" = 10
+	"Kanchanastambha #0" = 0
+	"Kanchuka #0" = -1
+	"Kapilendra #1" = 10
+	"Karnadeva #1" = 10
+	"Ksemankaradeva #0" = 0
+	"Kulastambha #1" = 10
+	"Lakshman #0" = -1
+	"Lakshmikaradeva #1" = 10
+	"Madhavavarman #0" = 0
+	"Malavyadevi #0" = -1
+	"Matradhyarya #0" = 0
+	"Mukunda #1" = 10
+	"Nahusa #1" = 10
+	"Narendra #1" = 10
+	"Prithvidena #0" = 0
+	"Puranjaya #2" = 10
+	"Rajadinaj #0" = 0
+	"Sailobhava #1" = 10
+	"Sankaravarman #1" = 10
+	"Satrubhanja #0" = 0
+	"Satyavarman #1" = 10
+	"Silabhanja #1" = 10
+	"Tustikara #0" = 0
+	"Udaya #1" = 10
+	"Udyotakesari #0" = 0
+	"Vijnanavati #0" = -1
+	"Yajiyavati #0" = -1
+}
+leader_names = {
+	"Bhowarbar"
+	"Bidyadhar"
+	"Dassa"
+	"Deo"
+	"Deva"
+	"Gajapati"
+	"Kalinga"
+	"Nayudu"
+	"Patra"
+	"Poosapati"
+	"Rai"
+	"Ratha"
+	"Reddy"
+	"Roy"
+	"Santra"
+	"Singhar"
+	"Sinha"
+	"Uria"
+	"Vansa"
+	"Vasireddy"
+	"Velama"
+}
+ship_names = {
+	"Baitarani"
+	"Balasore"
+	"Balugaon"
+	"Behrampur"
+	"Bhubeneswar"
+	"Brahmani"
+	"Chandipur"
+	"Chilka"
+	"Cuttack"
+	"Durga"
+	"Gopalpur"
+	"Jagannath"
+	"Juggernaut"
+	"Kalijai"
+	"Konark"
+	"Lakshmi"
+	"Mahanadi"
+	"Nalabana"
+	"Paradeep"
+	"Parvati"
+	"Puri"
+	"Radha"
+	"Sarasvati"
+	"Satapada"
+}

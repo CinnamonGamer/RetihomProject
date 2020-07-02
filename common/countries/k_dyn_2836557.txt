@@ -1,0 +1,17 @@
+graphical_culture = asiangfx
+color = { 101 225 245 }
+monarch_names = {
+	"Boroghul #1" = 10
+	"Chagur #0" = -1
+	"Chotan #0" = -1
+	"Daritai #0" = 0
+	"Godan #0" = 0
+	"Jamugha #0" = 0
+	"Khorijin #0" = -1
+	"Mandukhai #0" = -1
+	"Orbei #0" = -1
+	"Temuge #0" = 0
+	"Töregene #0" = -1
+	"Uighurtai #0" = 0
+	"Yegu #0" = 0
+}

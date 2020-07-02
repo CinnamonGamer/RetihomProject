@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = plutocratic_reform
+government_rank = 2
+technology_group = indian
+religion = hinduism
+primary_culture = oriya
+capital = 558
+mercantilism = 15
+1392.1.7= {
+	monarch = {
+		name = "Skandavarman"
+		dynasty = "Nagavamsi"
+		adm = 2
+		dip = 4
+		mil = 3
+		birth_date = 1345.5.15
+		religion = hinduism
+		culture = oriya
+	}
+	add_ruler_personality = benevolent_personality
+	add_ruler_personality = kind_hearted_personality
+	queen = {
+		name = "Mailaladevi"
+		dynasty = "Kakatiya"
+		adm = 3
+		dip = 3
+		mil = 3
+		country_of_origin = Z03
+		birth_date = 1364.1.4
+		death_date = 1424.1.4
+		female = yes
+		religion = hinduism
+		culture = kannada
+	}
+	add_queen_personality = secretive_personality
+	add_queen_personality = silver_tongue_personality
+	heir = {
+		name = "Kulastambha"
+		monarch_name = "Kulastambha"
+		dynasty = "Nagavamsi"
+		adm = 3
+		dip = 6
+		mil = 6
+		birth_date = 1367.11.15
+		death_date = 1432.11.15
+		claim = 89
+		religion = hinduism
+		culture = oriya
+	}
+	add_heir_personality = intricate_web_weaver_personality
+	add_heir_personality = strict_personality
+}
+1392.1.7= {
+	add_prestige = 76
+	add_treasury = 68
+}

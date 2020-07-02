@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = neapolitan
+capital = 4733
+1392.1.7= {
+	monarch = {
+		name = "Helena"
+		dynasty = "de Bourbon"
+		adm = 3
+		dip = 4
+		mil = 5
+		birth_date = 1360.2.11
+		female = yes
+		religion = catholic
+		culture = neapolitan
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Welf"
+		dynasty = "Clintonische"
+		adm = 5
+		dip = 2
+		mil = 4
+		country_of_origin = Z34
+		birth_date = 1364.12.18
+		death_date = 1424.12.18
+		religion = catholic
+		culture = alsatian
+	}
+	add_queen_personality = secretive_personality
+	add_queen_personality = silver_tongue_personality
+	heir = {
+		name = "Ana"
+		monarch_name = "Ana"
+		dynasty = "de Bourbon"
+		adm = 0
+		dip = 4
+		mil = 3
+		birth_date = 1384.5.11
+		death_date = 1449.5.11
+		female = yes
+		claim = 89
+		religion = catholic
+		culture = ligurian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1392.1.7= {
+	add_prestige = 4
+	add_treasury = 46
+}

@@ -1,0 +1,26 @@
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = dutch
+capital = 1769
+elector = yes
+1392.1.7= {
+	monarch = {
+		name = "Jacco"
+		dynasty = "van Namen"
+		adm = 4
+		dip = 1
+		mil = 4
+		birth_date = 1335.8.22
+		religion = catholic
+		culture = dutch
+	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = lawgiver_personality
+}
+1392.1.7= {
+	add_prestige = 30
+	add_treasury = 67
+}

@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 2
+technology_group = indian
+religion = hinduism
+primary_culture = tamil
+capital = 572
+1392.1.7= {
+	monarch = {
+		name = "Piratamâtevi"
+		dynasty = "Vengi Chalukya"
+		adm = 2
+		dip = 3
+		mil = 4
+		birth_date = 1348.6.12
+		female = yes
+		religion = hinduism
+		culture = tamil
+	}
+	add_ruler_personality = infertile_personality
+	add_ruler_personality = obsessive_perfectionist_personality
+	queen = {
+		name = "Niyâyaparipâlapattan"
+		dynasty = "Vengi Chalukya"
+		adm = 3
+		dip = 3
+		mil = 4
+		country_of_origin = CEY
+		birth_date = 1337.8.23
+		death_date = 1397.8.23
+		religion = hinduism
+		culture = malayalam
+	}
+	add_queen_personality = careful_personality
+	add_queen_personality = charismatic_negotiator_personality
+	heir = {
+		name = "Virâcakecaripanmar"
+		monarch_name = "Virâcakecaripanmar"
+		dynasty = "Vengi Chalukya"
+		adm = 3
+		dip = 4
+		mil = 6
+		birth_date = 1370.12.21
+		death_date = 1435.12.21
+		claim = 89
+		religion = hinduism
+		culture = malayalam
+	}
+	add_heir_personality = strict_personality
+	add_heir_personality = tactical_genius_personality
+}
+1392.1.7= {
+	add_prestige = 54
+	add_treasury = 0
+}

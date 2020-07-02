@@ -1,0 +1,40 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = sub_saharan
+religion = west_african_pagan_reformed
+primary_culture = hausa
+capital = 1155
+1392.1.7= {
+	monarch = {
+		name = "Khamisa"
+		dynasty = "Magazawa"
+		adm = 3
+		dip = 4
+		mil = 4
+		birth_date = 1368.2.21
+		female = yes
+		religion = west_african_pagan_reformed
+		culture = hausa
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = tactical_genius_personality
+	queen = {
+		name = "Ismaila"
+		dynasty = "Magazawa"
+		adm = 3
+		dip = 3
+		mil = 4
+		country_of_origin = HAU
+		birth_date = 1350.9.22
+		death_date = 1410.9.22
+		religion = west_african_pagan_reformed
+		culture = bambara
+	}
+	add_queen_personality = cruel_personality
+	add_queen_personality = infertile_personality
+}
+1392.1.7= {
+	add_prestige = 42
+	add_treasury = 67
+}

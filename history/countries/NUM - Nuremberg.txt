@@ -1,0 +1,35 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = bavarian
+capital = 2955
+1392.1.7= {
+	monarch = {
+		name = "(Regency Council)"
+		adm = 1
+		dip = 2
+		mil = 1
+		birth_date = 1.1.1
+		regent = yes
+		religion = catholic
+		culture = bavarian
+	}
+	heir = {
+		name = "Viktor"
+		dynasty = "von Polheim"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 1385.6.27
+		death_date = 1450.6.27
+		claim = 89
+		religion = catholic
+		culture = bavarian
+	}
+}
+1392.1.7= {
+	add_prestige = -50
+	add_treasury = 84
+}

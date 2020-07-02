@@ -1,0 +1,101 @@
+graphical_culture = indiangfx
+color = { 232 79 142 }
+revolutionary_colors = { 0 10 0 }
+historical_idea_groups = {
+	offensive_ideas
+	administrative_ideas
+	economic_ideas
+	defensive_ideas
+	humanist_ideas
+	aristocracy_ideas
+	diplomatic_ideas
+	trade_ideas
+}
+historical_units = {
+	bhonsle_infantry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	mughal_mansabdar
+	rajput_hill_fighters
+	reformed_mughal_musketeer
+	sikh_rifle
+	south_indian_musketeer
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Apsaradeva #1" = 10
+	"Atitta #3" = 10
+	"Barjena #0" = 0
+	"Dharmapala #0" = 0
+	"Gauri #0" = -1
+	"Janmejaya #1" = 10
+	"Jayavarma #0" = 0
+	"Jogama #0" = 0
+	"Kakanvati #0" = -1
+	"Kirâmarâcapattan #1" = 10
+	"Lakshmi #0" = -1
+	"Lakshmikaradeva #1" = 10
+	"Lilavati #0" = -1
+	"Maharani #0" = -1
+	"Naltêviyâr #0" = -1
+	"Nandaprabhanjanavarman #0" = 0
+	"Narendra #1" = 10
+	"Nayanadevi #0" = -1
+	"Nimmatikal #1" = -1
+	"Obayamma #0" = -1
+	"Paramananda #0" = 0
+	"Prasadhanadevi #0" = -1
+	"Prasannamatra #0" = 0
+	"Prithivimaharaja #1" = 10
+	"Ramachandra #0" = 0
+	"Revakanimmadi #0" = -1
+	"Shantaladevi #0" = -1
+	"Singhana #3" = 10
+	"Somesvara #2" = 10
+	"Subhakaradeva #0" = 0
+	"Tantivarman #1" = 10
+	"Udita #0" = 0
+	"Vijnanavati #0" = -1
+	"Vikramaditya #2" = 10
+	"Vishnugopa #2" = 10
+	"Yajiyavati #0" = -1
+}
+leader_names = {
+	"Bahadur"
+	"Chetty"
+	"Khader"
+	"Khan"
+	"Khan Wallajah"
+	"Mudaliar"
+	"Rajapopalachari"
+	"Reddy"
+	"Saluva"
+	"Sastri"
+	"Thondaiman"
+	"ul Umra"
+}
+ship_names = {
+	"Chambal"
+	"Devi"
+	"Durga"
+	"Ganga"
+	"Gayatri"
+	"Jalsena"
+	"Kala Jahazi"
+	"Lakshmi"
+	"Lal Jahazi"
+	"Nausena"
+	"Nav ka Yudh"
+	"Nila Jahazi"
+	"Parvati"
+	"Radha"
+	"Ratri"
+	"Sagar"
+	"Sarasvati"
+	"Sita"
+	"Spiti"
+	"Yamuna"
+}

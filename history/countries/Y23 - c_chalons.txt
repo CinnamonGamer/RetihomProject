@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = alsatian
+capital = 1877
+fixed_capital = 1877
+1392.1.7= {
+	monarch = {
+		name = "Raimbaut"
+		dynasty = "di Treviso"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 1328.8.8
+		religion = catholic
+		culture = alsatian
+	}
+	add_ruler_personality = lawgiver_personality
+	add_ruler_personality = pious_personality
+	queen = {
+		name = "Adalmode"
+		dynasty = "Brunonen"
+		adm = 4
+		dip = 3
+		mil = 3
+		country_of_origin = Y23
+		birth_date = 1328.7.5
+		death_date = 1388.7.5
+		female = yes
+		religion = catholic
+		culture = burgundian
+	}
+	add_queen_personality = greedy_personality
+	add_queen_personality = just_personality
+	heir = {
+		name = "Lutbert"
+		monarch_name = "Lutbert"
+		dynasty = "di Treviso"
+		adm = 3
+		dip = 5
+		mil = 5
+		birth_date = 1356.7.10
+		death_date = 1421.7.10
+		claim = 89
+		religion = catholic
+		culture = alsatian
+	}
+	add_heir_personality = charismatic_negotiator_personality
+	add_heir_personality = tactical_genius_personality
+}
+1392.1.7= {
+	add_prestige = 43
+	add_treasury = 59
+}

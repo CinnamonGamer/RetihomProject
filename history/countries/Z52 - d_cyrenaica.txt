@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = muslim
+religion = jewish
+primary_culture = misrayim
+capital = 357
+1392.1.7= {
+	monarch = {
+		name = "Dodai II"
+		dynasty = "of Dehloran"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 1359.10.16
+		religion = jewish
+		culture = misrayim
+	}
+	add_ruler_personality = greedy_personality
+	add_ruler_personality = lawgiver_personality
+	queen = {
+		name = "Chana"
+		dynasty = "of Thughra"
+		adm = 3
+		dip = 2
+		mil = 2
+		country_of_origin = Z52
+		birth_date = 1359.7.2
+		death_date = 1419.7.2
+		female = yes
+		religion = jewish
+		culture = knaanic
+	}
+	add_queen_personality = martial_educator_personality
+	add_queen_personality = tactical_genius_personality
+	heir = {
+		name = "Gedalyah"
+		monarch_name = "Gedalyah"
+		dynasty = "of Dehloran"
+		adm = 4
+		dip = 3
+		mil = 3
+		birth_date = 1381.12.18
+		death_date = 1446.12.18
+		claim = 89
+		religion = jewish
+		culture = knaanic
+	}
+	add_heir_personality = calm_personality
+	add_heir_personality = zealot_personality
+}
+1392.1.7= {
+	add_prestige = 14
+	add_treasury = 76
+}

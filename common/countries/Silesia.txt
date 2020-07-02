@@ -1,0 +1,94 @@
+graphical_culture = westerngfx
+color = { 84 166 93 }
+revolutionary_colors = { 8 1 8 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	quality_ideas
+	religious_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Adelinde #1" = -1
+	"Aleksander #0" = 0
+	"Anastazja #2" = -1
+	"Barbara #0" = -1
+	"Dietrich #0" = 0
+	"Doman #1" = 10
+	"Gardomir #1" = 10
+	"Georg #0" = 0
+	"Gisela #0" = -1
+	"Gunzelin #0" = 0
+	"Hermann #0" = 0
+	"Kazimiera #1" = -1
+	"Kinga #0" = -1
+	"Leopold #1" = 10
+	"Magnus #1" = 10
+	"Malogost #1" = 10
+	"Martin #0" = 0
+	"Mirogod #1" = 10
+	"Nawoja #1" = -1
+	"Odolan #1" = 10
+	"Przemyslaw #1" = 10
+	"Radbot #0" = 0
+	"Rutger #1" = 10
+	"Salomea #0" = -1
+	"Sambor #2" = 10
+	"Skarbimir #1" = 10
+	"Slezaslaw #1" = 10
+	"Uniedrog #2" = 10
+	"Valeria #0" = -1
+	"Witosz #2" = 10
+	"Wlost #1" = 10
+	"Zdamir #1" = 10
+}
+leader_names = {
+	"Abeln"
+	"Greve"
+	"Gronau"
+	"Heintzel"
+	"Hergesell"
+	"Hoppe"
+	"Jauernik"
+	"Kahl"
+	"Liegnitz"
+	"Schwarz"
+	"Sterner"
+	"Tilch"
+	"Wiehle"
+}
+ship_names = {
+	"Breslau"
+	"Cosel-Beuthen"
+	"Falkenberg"
+	"Glogau"
+	"Liegnitz-Brieg"
+	"Münsterberg"
+	"Neisse-Ottmachau"
+	"Oels"
+	"Oppeln"
+	"Ratibor"
+	"Sagan"
+	"Schweidnitz-Jauer"
+	"Steinau"
+	"Teschen"
+}

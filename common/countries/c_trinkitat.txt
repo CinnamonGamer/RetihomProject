@@ -1,0 +1,12 @@
+graphical_culture = easterngfx
+color = { 141 55 35 }
+monarch_names = {
+	"Abianos #0" = 0
+	"Agathos #0" = 0
+	"Belet #0" = -1
+	"Biktor #0" = 0
+	"Macari #0" = 0
+	"Menechem #0" = 0
+	"Ourot #0" = 0
+	"Sawsan #0" = -1
+}

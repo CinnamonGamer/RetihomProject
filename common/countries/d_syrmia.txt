@@ -1,0 +1,27 @@
+graphical_culture = easterngfx
+color = { 170 140 115 }
+monarch_names = {
+	"Bozçin #0" = -1
+	"Budec #1" = 10
+	"Dmitar #0" = 0
+	"Drzislav #1" = 10
+	"Jadranka #1" = -1
+	"Konstantine #0" = 0
+	"Krystyn #0" = 0
+	"Ladika #1" = -1
+	"Ljutomisl #1" = 10
+	"Luca #0" = -1
+	"Mislav #0" = 0
+	"Nikephoros #1" = 10
+	"Ragnvald #1" = 10
+	"Ratimir #1" = 10
+	"Saul #0" = 0
+	"Tvrdoslav #1" = 10
+	"Tvrtko #1" = 10
+	"Valerija #1" = -1
+	"Vid #0" = 0
+	"Viola #0" = -1
+	"Vitomir #1" = 10
+	"Vjekoslava #1" = -1
+	"Zvonimira #1" = -1
+}

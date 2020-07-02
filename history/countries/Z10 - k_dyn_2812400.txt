@@ -1,0 +1,55 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+technology_group = chinese
+religion = sunni
+primary_culture = mongol
+capital = 2360
+1392.1.7= {
+	monarch = {
+		name = "Bogen"
+		dynasty = "Todogen"
+		adm = 3
+		dip = 3
+		mil = 4
+		birth_date = 1357.3.8
+		religion = sunni
+		culture = mongol
+	}
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = cruel_personality
+	queen = {
+		name = "Yesugun"
+		dynasty = "Tumen"
+		adm = 2
+		dip = 3
+		mil = 2
+		country_of_origin = Z10
+		birth_date = 1349.3.3
+		death_date = 1409.3.3
+		female = yes
+		religion = sunni
+		culture = astrakhani
+	}
+	add_queen_personality = righteous_personality
+	add_queen_personality = scholar_personality
+	heir = {
+		name = "Buri"
+		monarch_name = "Buri"
+		dynasty = "Todogen"
+		adm = 0
+		dip = 1
+		mil = 1
+		birth_date = 1389.8.3
+		death_date = 1454.8.3
+		claim = 89
+		religion = sunni
+		culture = astrakhani
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1392.1.7= {
+	add_prestige = 12
+	add_treasury = 56
+}

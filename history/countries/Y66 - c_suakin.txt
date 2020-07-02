@@ -1,0 +1,36 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = muslim
+religion = jewish
+primary_culture = misrayim
+capital = 1230
+fixed_capital = 1230
+1392.1.7= {
+	monarch = {
+		name = "(Regency Council)"
+		adm = 0
+		dip = 0
+		mil = 0
+		birth_date = 1.1.1
+		regent = yes
+		religion = jewish
+		culture = misrayim
+	}
+	heir = {
+		name = "Nesanel"
+		dynasty = "of Tripoli"
+		adm = 2
+		dip = 2
+		mil = 2
+		birth_date = 1390.12.27
+		death_date = 1455.12.27
+		claim = 89
+		religion = jewish
+		culture = misrayim
+	}
+}
+1392.1.7= {
+	add_prestige = -50
+	add_treasury = 43
+}

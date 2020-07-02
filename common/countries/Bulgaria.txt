@@ -1,0 +1,110 @@
+graphical_culture = easterngfx
+color = { 116 107 140 }
+revolutionary_colors = { 0 10 5 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	religious_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+}
+historical_units = {
+	eastern_carabinier
+	eastern_knights
+	eastern_medieval_infantry
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	ottoman_lancer
+	ottoman_new_model
+	ottoman_nizami_cedid
+	ottoman_reformed_janissary
+	ottoman_reformed_spahi
+	ottoman_sekban
+	ottoman_toprakli_dragoon
+	ottoman_toprakli_hit_and_run
+	slavic_stradioti
+}
+monarch_names = {
+	"Ajjar #1" = 10
+	"Alexios #2" = 10
+	"Andronikos #1" = 10
+	"Anthousa #0" = -1
+	"Asparukh #1" = 10
+	"Bardas #0" = 0
+	"Batbayan #1" = 10
+	"Boril #1" = 10
+	"Boris #1" = 10
+	"Dorotheos #1" = 10
+	"Eudoxia #0" = -1
+	"Gabriel #0" = 0
+	"Gregorios #1" = 10
+	"Helene #0" = -1
+	"Helias #0" = 0
+	"Herakleios #2" = 10
+	"Hermann #0" = 0
+	"Hypatios #0" = 0
+	"Iva #1" = -1
+	"Ivan #1" = 10
+	"Kaisarios #0" = 0
+	"Kardam #1" = 10
+	"Kormesiy #1" = 10
+	"Kormisosh #1" = 10
+	"Krum #1" = 10
+	"Kubrat #1" = 10
+	"Malamir #1" = 10
+	"Nikoletta #0" = -1
+	"Nikolina #1" = -1
+	"Nonna #1" = -1
+	"Omortag #1" = 10
+	"Pagan #1" = 10
+	"Petar #1" = 10
+	"Presian #1" = 10
+	"Romanos #0" = 0
+	"Sabin #1" = 10
+	"Sancha #0" = -1
+	"Sevar #1" = 10
+	"Simeon #1" = 10
+	"Svetislav #1" = 10
+	"Symmachos #1" = 10
+	"Telerig #1" = 10
+	"Telets #1" = 10
+	"Tervel #1" = 10
+	"Theodoros #1" = 10
+	"Theodotos #1" = 10
+	"Toktu #1" = 10
+	"Umor #1" = 10
+	"Vinekh #1" = 10
+	"Vladimir #1" = 10
+}
+leader_names = {
+	"Balina"
+	"Djordjic"
+	"Dobrovski"
+	"Frujin"
+	"Karposh"
+	"Konstantin"
+	"Marinov"
+	"Peyachevich"
+	"Radic"
+	"Rali"
+	"Shishman"
+	"Sorkochovich"
+	"Strahil"
+	"Stratimirovich"
+}
+ship_names = {
+	"Alhtpolo"
+	"Kiten"
+	"Kraymorie"
+	"Lozenets"
+	"Promorsko"
+	"Rezovo"
+	"Sarafovo"
+	"Sinemorets"
+	"Sozopol"
+	"Varara"
+}

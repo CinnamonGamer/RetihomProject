@@ -1,0 +1,92 @@
+graphical_culture = easterngfx
+color = { 103 121 136 }
+revolutionary_colors = { 10 0 15 }
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	maritime_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+historical_units = {
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_dragoon
+	muslim_mass_infantry
+	persian_cavalry_charge
+	persian_footsoldier
+	persian_rifle
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+}
+monarch_names = {
+	"Abbas #2" = 10
+	"Abu Abdallah #1" = 10
+	"Al-Muwaffak #1" = 10
+	"Alptigin #1" = 10
+	"Amr #1" = 10
+	"Arslan Shah #1" = 10
+	"Asher #0" = 0
+	"Bustenai #1" = 10
+	"Chelbo #1" = 10
+	"Efrayim #1" = 10
+	"Ehsan #1" = 10
+	"Elchanan #1" = 10
+	"Eldad #0" = 0
+	"Ertigin #1" = 10
+	"Esther #0" = -1
+	"Ferîdun #1" = 10
+	"Giat #0" = 0
+	"Kaikaus #1" = 10
+	"Kambiz #1" = 10
+	"Mari #0" = 0
+	"Mehmûd Nîzamedîn #1" = 10
+	"Meshulam #1" = 10
+	"Mordechai #1" = 10
+	"Pultzelina #0" = -1
+	"Reuven #0" = 0
+	"Saris #0" = -1
+	"Sherira #0" = 0
+	"Tolun #1" = 10
+	"Tzemach #1" = 10
+	"Tziporah #0" = -1
+	"Varšasp #1" = 10
+	"Yakut #1" = 10
+	"Yechiel #1" = 10
+	"Yehudah #0" = 0
+	"Yeintil #1" = -1
+	"Çaka #1" = 10
+}
+leader_names = {
+	"Al Humaid"
+	"Al Janah"
+	"Al Saadun"
+	"Al Subaih"
+	"Al-Dhafeer"
+	"Bani Khalid"
+	"Bani Malik"
+	"Bani Sa'id"
+	"Banu 'Amir"
+	"Banu 'Uqayl"
+	"Du'um"
+	"Grusha"
+	"Juboor"
+	"al-Ajwad"
+}
+ship_names = {
+	"Faydhi"
+	"Fazil"
+	"Jamal"
+	"Kadri"
+	"Midhat"
+	"Nadhif"
+	"Nadhim"
+	"Namiq"
+	"Omer"
+	"Sirri"
+}

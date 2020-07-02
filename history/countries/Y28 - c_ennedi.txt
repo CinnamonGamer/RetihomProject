@@ -1,0 +1,41 @@
+government = republic
+add_government_reform = peasants_republic
+government_rank = 1
+technology_group = east_african
+religion = shiite
+primary_culture = daju
+capital = 774
+fixed_capital = 774
+1392.1.7= {
+	monarch = {
+		name = "Kalge"
+		dynasty = "Kalge"
+		adm = 1
+		dip = 3
+		mil = 1
+		birth_date = 1365.8.25
+		religion = shiite
+		culture = daju
+	}
+	add_ruler_personality = architectural_visionary_personality
+	add_ruler_personality = charismatic_negotiator_personality
+	queen = {
+		name = "Mariam"
+		dynasty = "Kaukabi"
+		adm = 3
+		dip = 2
+		mil = 5
+		country_of_origin = Y28
+		birth_date = 1351.9.21
+		death_date = 1411.9.21
+		female = yes
+		religion = shiite
+		culture = daju
+	}
+	add_queen_personality = conqueror_personality
+	add_queen_personality = malevolent_personality
+}
+1392.1.7= {
+	add_prestige = 15
+	add_treasury = 50
+}

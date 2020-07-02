@@ -1,0 +1,1 @@
+1392.1.7 = { celestial_emperor = SNG }

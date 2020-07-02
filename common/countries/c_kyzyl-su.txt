@@ -1,0 +1,9 @@
+graphical_culture = westerngfx
+color = { 155 203 73 }
+monarch_names = {
+	"Bermudo #0" = 0
+	"Gutierre #0" = 0
+	"Gómez #0" = 0
+	"Mayor #0" = -1
+	"Vela #0" = 0
+}

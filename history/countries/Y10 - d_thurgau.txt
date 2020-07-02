@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = swiss
+capital = 1869
+1392.1.7= {
+	monarch = {
+		name = "Gisela"
+		dynasty = "Vimaranes"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 1372.1.12
+		female = yes
+		religion = catholic
+		culture = swiss
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = secretive_personality
+	queen = {
+		name = "Gonçalo"
+		dynasty = "Vimaranes"
+		adm = 3
+		dip = 4
+		mil = 4
+		country_of_origin = Y10
+		birth_date = 1359.8.5
+		death_date = 1419.8.5
+		religion = catholic
+		culture = portugese
+	}
+	add_queen_personality = fierce_negotiator_personality
+	add_queen_personality = tactical_genius_personality
+	heir = {
+		name = "Hemma"
+		monarch_name = "Hemma"
+		dynasty = "Vimaranes"
+		adm = 0
+		dip = 1
+		mil = 1
+		birth_date = 1389.4.4
+		death_date = 1454.4.4
+		female = yes
+		claim = 89
+		religion = catholic
+		culture = alsatian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1392.1.7= {
+	add_prestige = 42
+	add_treasury = 65
+}

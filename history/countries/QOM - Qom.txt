@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = plutocratic_reform
+government_rank = 1
+technology_group = muslim
+religion = jewish
+primary_culture = mizrahi
+capital = 429
+mercantilism = 15
+1392.1.7= {
+	monarch = {
+		name = "Eliezer"
+		dynasty = "of Budhkula"
+		adm = 1
+		dip = 2
+		mil = 4
+		birth_date = 1343.9.6
+		religion = jewish
+		culture = mizrahi
+	}
+	add_ruler_personality = secretive_personality
+	add_ruler_personality = tactical_genius_personality
+	queen = {
+		name = "Madrona"
+		dynasty = "of Rakka"
+		adm = 3
+		dip = 3
+		mil = 3
+		country_of_origin = QOM
+		birth_date = 1344.4.11
+		death_date = 1404.4.11
+		female = yes
+		religion = jewish
+		culture = knaanic
+	}
+	add_queen_personality = silver_tongue_personality
+	add_queen_personality = strict_personality
+	heir = {
+		name = "Mishael"
+		monarch_name = "Mishael"
+		dynasty = "of Budhkula"
+		adm = 1
+		dip = 2
+		mil = 3
+		birth_date = 1383.10.9
+		death_date = 1448.10.9
+		claim = 89
+		religion = jewish
+		culture = knaanic
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1392.1.7= {
+	add_prestige = 48
+	add_treasury = 68
+}

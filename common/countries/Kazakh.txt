@@ -1,0 +1,95 @@
+graphical_culture = asiangfx
+color = { 202 217 170 }
+revolutionary_colors = { 14 8 14 }
+historical_idea_groups = {
+	offensive_ideas
+	defensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+	religious_ideas
+}
+historical_units = {
+	reformed_steppe_rifles
+	steppe_cavalry
+	steppe_footmen
+	steppe_infantry
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_musketeers
+	steppe_raiders
+	steppe_riders
+	steppe_rifles
+	steppe_uhlans
+}
+monarch_names = {
+	"Akhutai #1" = 10
+	"Alchi #0" = 0
+	"Ali #1" = 10
+	"Ambaghai #0" = 0
+	"Bachman #1" = 10
+	"Bedugun #1" = 10
+	"Borjigidai #3" = 10
+	"Bughu #1" = 10
+	"Bulughan #0" = -1
+	"Buquq #1" = 10
+	"Burkhan #0" = 0
+	"Burundai #1" = 10
+	"Chilagun #1" = 10
+	"Daritai #1" = 10
+	"Dodai #1" = 10
+	"Gughlug #1" = 10
+	"Hogelun #0" = -1
+	"Horkhudagh #1" = 10
+	"Ilgazi #1" = 10
+	"Kadan #1" = 10
+	"Khadagh #1" = 10
+	"Khorilartai #1" = 10
+	"Khubilai #1" = 10
+	"Khuyildar #1" = 10
+	"Kogsegu #2" = 10
+	"Megetu #1" = 10
+	"Megujin #1" = 10
+	"Odchigin #1" = 10
+	"Sirçan #1" = 10
+	"Sorkhaghatani #0" = -1
+	"Suyiketu #1" = 10
+	"Tolui #1" = 10
+	"Yesunge #1" = 10
+	"Çigshi #1" = 10
+	"Örüñ #0" = -1
+}
+leader_names = {
+	"Batu Arslan"
+	"Bora Unegen"
+	"Burilgijin"
+	"Chagan Chinua"
+	"Cherenqai"
+	"Kokechar"
+	"Mongke Cheren"
+	"Qutughgge"
+	"Suren Gal"
+	"Tegus-tu"
+	"Temurgene"
+	"Toluichu"
+	"Yekedai"
+}
+ship_names = {
+	"Cu"
+	"Emba"
+	"Ili"
+	"Irtys"
+	"Isim"
+	"Kisi Jüz"
+	"Nura"
+	"Orta Jüz"
+	"Qoja"
+	"Syrdarja"
+	"Turgay"
+	"Tölengit"
+	"Töre"
+	"Uil"
+	"Uli Jüz"
+}

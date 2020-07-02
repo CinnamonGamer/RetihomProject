@@ -1,0 +1,26 @@
+graphical_culture = easterngfx
+color = { 177 60 100 }
+monarch_names = {
+	"Bernát #0" = 0
+	"Chana #0" = -1
+	"Dezsõ #2" = 10
+	"Dionysios #0" = 0
+	"Elaiodora #1" = -1
+	"Engelbert #0" = 0
+	"Epiphania #1" = -1
+	"Estefanía #0" = -1
+	"Eunike #0" = -1
+	"Georgios #0" = 0
+	"Gregoria #0" = -1
+	"Gubaz #1" = 10
+	"Hierotheos #0" = 0
+	"Nüying #0" = -1
+	"Shmuel #0" = 0
+	"Shukhia #1" = -1
+	"Tamar #0" = 0
+	"Theodosios #1" = 10
+	"Theophilos #1" = 10
+	"Vasco #0" = 0
+	"Yoshiah #1" = 10
+	"Yosi #1" = 10
+}

@@ -1,0 +1,37 @@
+﻿l_french:
+ ZZZ_enhanced_reform_norse_pagan_title:0 "Réforme [Root.Religion.GetName]"
+ ZZZ_enhanced_reform_norse_pagan_desc:0 "Réformez la foi [Root.Religion.GetName] en une religion organisée. La foi réformée n'a pas de malus de conversion et il n'est pas plus facile pour les autres religions de se convertir."
+ 
+ ZZZ_enhanced_reform_baltic_pagan_title:0 "Réforme [Root.Religion.GetName]"
+ ZZZ_enhanced_reform_baltic_pagan_desc:0 "Réformez la foi [Root.Religion.GetName] en une religion organisée. La foi réformée n'a pas de malus de conversion et il n'est pas plus facile pour les autres religions de se convertir."
+ 
+ ZZZ_enhanced_reform_finnish_pagan_title:0 "Réforme [Root.Religion.GetName]"
+ ZZZ_enhanced_reform_finnish_pagan_desc:0 "Réformez la foi [Root.Religion.GetName] en une religion organisée. La foi réformée n'a pas de malus de conversion et il n'est pas plus facile pour les autres religions de se convertir."
+ 
+ ZZZ_enhanced_reform_tengri_pagan_title:0 "Réforme [Root.Religion.GetName]"
+ ZZZ_enhanced_reform_tengri_pagan_desc:0 "Réformez la foi [Root.Religion.GetName] en une religion organisée. La foi réformée n'a pas de malus de conversion et il n'est pas plus facile pour les autres religions de se convertir."
+ 
+ ZZZ_enhanced_reform_slavic_pagan_title:0 "Réforme [Root.Religion.GetName]"
+ ZZZ_enhanced_reform_slavic_pagan_desc:0 "Réformez la foi [Root.Religion.GetName] en une religion organisée. La foi réformée n'a pas de malus de conversion et il n'est pas plus facile pour les autres religions de se convertir."
+ 
+ ZZZ_enhanced_reform_zun_pagan_title:0 "Réforme [Root.Religion.GetName]"
+ ZZZ_enhanced_reform_zun_pagan_desc:0 "Réformez la foi [Root.Religion.GetName] en une religion organisée. La foi réformée n'a pas de malus de conversion et il n'est pas plus facile pour les autres religions de se convertir."
+ 
+ ZZZ_enhanced_reform_bon_title:0 "Réforme [Root.Religion.GetName]"
+ ZZZ_enhanced_reform_bon_desc:0 "Réformez la foi [Root.Religion.GetName] en une religion organisée. La foi réformée n'a pas de malus de conversion et il n'est pas plus facile pour les autres religions de se convertir."
+ 
+ ZZZ_enhanced_reform_hellenic_title:0 "Réforme [Root.Religion.GetName]"
+ ZZZ_enhanced_reform_hellenic_desc:0 "Réformez la foi [Root.Religion.GetName] en une religion organisée. La foi réformée n'a pas de malus de conversion et il n'est pas plus facile pour les autres religions de se convertir."
+  
+ ZZZ_enhanced_reform_african_title:0 "Adopter des réformes religieuses"
+ ZZZ_enhanced_reform_african_desc:0 "On nous a montré que parfois les anciennes méthodes ne sont pas toujours les meilleures. On peut changer avec le temps et conserver son héritage et son personnage. Il y a ceux qui ne l'aimeront pas, mais nous devons entraîner nos chamans dans l'ère moderne et adopter les réformes qui ont si bien fonctionné pour les autres."
+ 
+ ZZZ_spreading_of_reformed_pagan_rituals_title:0 "Répartition des rituels $RELIGION$"
+ ZZZ_spreading_of_reformed_pagan_rituals_desc:0 "La conversion à la religion $RELIGION$ ne nécessite rien, chaque personne est capable de diriger ses propres rituels religieux. Tant que vous effectuez les rituels appropriés, vous êtes considéré comme un vrai croyant adepte. Encourageons de plus en plus nos sujets à apprendre nos manières afin qu'ils puissent au moins commencer à les adorer."
+
+ ZZZ_remove_elective_challenge_title:0 "Défiez les Nobles"
+ ZZZ_remove_elective_challenge_desc:0 "Pendant trop longtemps, les nobles ont retenu notre pays avec leur politique incessante. Le temps des monarchies électives a pris fin des siècles et si nous continuons à ne rien faire, nos voisins feront de notre pays une relique du passé!"
+ ZZZ_remove_elective_final_title:0 "Revendiquez la Victoire Sur les Nobles"
+ ZZZ_remove_elective_final_desc:0 "Nous avons triomphé de la petite noblesse qui aurait empêché notre nation de progresser. Maintenant, nous pouvons guider la nation sans avoir à se soucier de leur ingérence!"
+
+

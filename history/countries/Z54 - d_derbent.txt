@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = eastern
+religion = catholic
+primary_culture = dagestani
+capital = 425
+1392.1.7= {
+	monarch = {
+		name = "Archili"
+		dynasty = "Crovan"
+		adm = 6
+		dip = 4
+		mil = 5
+		birth_date = 1353.9.3
+		religion = catholic
+		culture = dagestani
+	}
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = intricate_web_weaver_personality
+	queen = {
+		name = "Martina"
+		dynasty = "di Manych"
+		adm = 4
+		dip = 2
+		mil = 3
+		country_of_origin = Z54
+		birth_date = 1354.4.4
+		death_date = 1414.4.4
+		female = yes
+		religion = catholic
+		culture = ligurian
+	}
+	add_queen_personality = lawgiver_personality
+	add_queen_personality = strict_personality
+	heir = {
+		name = "Gabrieli"
+		monarch_name = "Gabrieli"
+		dynasty = "Crovan"
+		adm = 3
+		dip = 4
+		mil = 4
+		birth_date = 1382.9.15
+		death_date = 1447.9.15
+		claim = 89
+		religion = catholic
+		culture = circassian
+	}
+	add_heir_personality = just_personality
+	add_heir_personality = kind_hearted_personality
+}
+1392.1.7= {
+	add_prestige = 61
+	add_treasury = 60
+}

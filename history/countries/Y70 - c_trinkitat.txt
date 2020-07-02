@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = eastern
+religion = jewish
+primary_culture = coptic
+capital = 1230
+fixed_capital = 1230
+1392.1.7= {
+	monarch = {
+		name = "Agathos"
+		dynasty = "Amoun"
+		adm = 3
+		dip = 1
+		mil = 4
+		birth_date = 1344.3.11
+		religion = jewish
+		culture = coptic
+	}
+	add_ruler_personality = calm_personality
+	add_ruler_personality = entrepreneur_personality
+	queen = {
+		name = "Belet"
+		dynasty = "of Aswan"
+		adm = 3
+		dip = 2
+		mil = 4
+		country_of_origin = Y70
+		birth_date = 1358.7.23
+		death_date = 1418.7.23
+		female = yes
+		religion = jewish
+		culture = circassian
+	}
+	add_queen_personality = kind_hearted_personality
+	add_queen_personality = secretive_personality
+	heir = {
+		name = "Macari"
+		monarch_name = "Macari"
+		dynasty = "Amoun"
+		adm = 6
+		dip = 3
+		mil = 6
+		birth_date = 1378.7.21
+		death_date = 1443.7.21
+		claim = 89
+		religion = jewish
+		culture = circassian
+	}
+	add_heir_personality = bold_fighter_personality
+	add_heir_personality = fierce_negotiator_personality
+}
+1392.1.7= {
+	add_prestige = 37
+	add_treasury = 50
+}

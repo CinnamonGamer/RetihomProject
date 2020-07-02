@@ -1,0 +1,11 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = muslim
+religion = jewish
+primary_culture = misrayim
+capital = 2315
+1392.1.7= {
+	add_prestige = 65
+	add_treasury = 72
+}

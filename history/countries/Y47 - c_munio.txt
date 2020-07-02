@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = sub_saharan
+religion = west_african_pagan_reformed
+primary_culture = mali
+capital = 2282
+fixed_capital = 2282
+1392.1.7= {
+	monarch = {
+		name = "Soundiata"
+		dynasty = "Nguru"
+		adm = 1
+		dip = 1
+		mil = 3
+		birth_date = 1360.5.7
+		religion = west_african_pagan_reformed
+		culture = mali
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = strict_personality
+	queen = {
+		name = "Nafissa"
+		dynasty = "Buricimba"
+		adm = 4
+		dip = 4
+		mil = 4
+		country_of_origin = Y47
+		birth_date = 1344.8.14
+		death_date = 1404.8.14
+		female = yes
+		religion = west_african_pagan_reformed
+		culture = bambara
+	}
+	add_queen_personality = naive_personality
+	add_queen_personality = tolerant_personality
+	heir = {
+		name = "Musa"
+		monarch_name = "Musa"
+		dynasty = "Nguru"
+		adm = 0
+		dip = 0
+		mil = 0
+		birth_date = 1391.12.13
+		death_date = 1456.12.13
+		claim = 89
+		religion = west_african_pagan_reformed
+		culture = bambara
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1392.1.7= {
+	add_prestige = 31
+	add_treasury = 51
+}

@@ -1,0 +1,14 @@
+graphical_culture = asiangfx
+color = { 234 145 191 }
+monarch_names = {
+	"Badai #1" = 10
+	"Chagatai #0" = 0
+	"Checheyigen #0" = -1
+	"Doregene #0" = -1
+	"Hogelun #0" = -1
+	"Ibakha #0" = -1
+	"Khubilai #0" = 0
+	"Nomolun #0" = -1
+	"Tekine #0" = -1
+	"Todogen #1" = 10
+}

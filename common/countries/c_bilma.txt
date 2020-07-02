@@ -1,0 +1,12 @@
+graphical_culture = africangfx
+color = { 85 180 221 }
+monarch_names = {
+	"Barakissa #0" = -1
+	"Fadima #0" = -1
+	"Fatoumata #0" = -1
+	"Lahiltoul #0" = 0
+	"Manding-Bory #0" = 0
+	"Nafissa #0" = -1
+	"Namandjé #0" = -1
+	"Takoi #0" = 0
+}

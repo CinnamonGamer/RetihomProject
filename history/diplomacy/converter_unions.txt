@@ -1,0 +1,192 @@
+union=
+{
+	first="DAU"
+	second="SWA"
+	start_date="1392.1.7"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="DAU"
+	second="Y50"
+	start_date="1392.1.7"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="Z35"
+	second="Z36"
+	start_date="1392.1.7"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="Z35"
+	second="Z91"
+	start_date="1392.1.7"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="KOL"
+	second="TRI"
+	start_date="1392.1.7"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="KOL"
+	second="Z84"
+	start_date="1392.1.7"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="BAD"
+	second="FER"
+	start_date="1392.1.7"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="STY"
+	second="Z58"
+	start_date="1392.1.7"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="BOH"
+	second="MOD"
+	start_date="1392.1.7"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="BOH"
+	second="PAR"
+	start_date="1392.1.7"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="Y03"
+	second="BOS"
+	start_date="1392.1.7"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="REG"
+	second="Y71"
+	start_date="1392.1.7"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="GAL"
+	second="Y63"
+	start_date="1392.1.7"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="GAL"
+	second="Z02"
+	start_date="1392.1.7"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="GAL"
+	second="Z38"
+	start_date="1392.1.7"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="Y60"
+	second="Y80"
+	start_date="1392.1.7"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="SAV"
+	second="Y77"
+	start_date="1392.1.7"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="SAV"
+	second="Z49"
+	start_date="1392.1.7"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="Y57"
+	second="Y69"
+	start_date="1392.1.7"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="Z01"
+	second="EPI"
+	start_date="1392.1.7"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="Z01"
+	second="GRE"
+	start_date="1392.1.7"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="Z01"
+	second="TRE"
+	start_date="1392.1.7"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="DAN"
+	second="SWE"
+	start_date="1392.1.7"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="BRA"
+	second="ALS"
+	start_date="1392.1.7"
+	end_date="1836.1.1"
+}
+

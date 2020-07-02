@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = plutocratic_reform
+government_rank = 2
+technology_group = muslim
+religion = shiite
+primary_culture = hejazi_culture
+capital = 385
+mercantilism = 15
+1392.1.7= {
+	monarch = {
+		name = "Nizam VI"
+		dynasty = "Mubarakid"
+		adm = 4
+		dip = 2
+		mil = 4
+		birth_date = 1344.4.4
+		religion = shiite
+		culture = hejazi_culture
+	}
+	add_ruler_personality = obsessive_perfectionist_personality
+	add_ruler_personality = tactical_genius_personality
+	queen = {
+		name = "Shameem"
+		dynasty = "Kukaid"
+		adm = 4
+		dip = 3
+		mil = 4
+		country_of_origin = MDA
+		birth_date = 1348.3.28
+		death_date = 1408.3.28
+		female = yes
+		religion = shiite
+		culture = tuareg
+	}
+	add_queen_personality = midas_touched_personality
+	add_queen_personality = righteous_personality
+	heir = {
+		name = "Aarif"
+		monarch_name = "Aarif"
+		dynasty = "Mubarakid"
+		adm = 4
+		dip = 3
+		mil = 2
+		birth_date = 1382.10.7
+		death_date = 1447.10.7
+		claim = 89
+		religion = shiite
+		culture = tuareg
+	}
+	add_heir_personality = charismatic_negotiator_personality
+	add_heir_personality = zealot_personality
+}
+1392.1.7= {
+	add_prestige = 81
+	add_treasury = 50
+}

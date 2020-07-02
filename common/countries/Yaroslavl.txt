@@ -1,0 +1,115 @@
+graphical_culture = easterngfx
+color = { 131 141 142 }
+revolutionary_colors = { 8 1 8 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	quality_ideas
+	diplomatic_ideas
+	religious_ideas
+}
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	eastern_carabinier
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	muscovite_caracolle
+	muscovite_cossack
+	muscovite_musketeer
+	muscovite_soldaty
+	russian_cuirassier
+	russian_green_coat
+	russian_lancer
+	russian_mass
+	russian_petrine
+	slavic_stradioti
+}
+monarch_names = {
+	"Arnbjörn #1" = 10
+	"Atyamas #1" = 10
+	"Borç #1" = 10
+	"Bozçin #0" = -1
+	"Chindyayka #1" = -1
+	"Daniil #2" = 10
+	"Deryab #1" = 10
+	"Gunes #0" = -1
+	"Ingfrid #0" = -1
+	"Ingvar #1" = 10
+	"Kardaz #1" = 10
+	"Kopti #0" = 0
+	"Kuntuvdi #0" = 0
+	"Loukas #1" = 10
+	"Meir #0" = 0
+	"Nishkepaz #1" = 10
+	"Prokopios #1" = 10
+	"Sarica #0" = -1
+	"Sevenç #0" = 0
+	"Shukshtoroyka #1" = -1
+	"Surt #1" = 10
+	"Terentiy #2" = 10
+	"Thomas #0" = 0
+	"Tolik #0" = 0
+	"Tolun #0" = 0
+	"Tormod #1" = 10
+	"Tushtya #1" = 10
+	"Tylze #1" = 10
+	"Tyueykezhut #1" = 10
+	"Umay #0" = -1
+	"Vsevolod #1" = 10
+	"Zvenislava #1" = -1
+}
+leader_names = {
+	"Alabyshe"
+	"Alenkin"
+	"Belsky"
+	"Deyev"
+	"Dulov"
+	"Golygin"
+	"Kubensky"
+	"Kurbsky"
+	"Mortkin"
+	"Mulozhsky"
+	"Okhlyabinin"
+	"Pnekov"
+	"Shchetinin"
+	"Siseev"
+	"Sitsky"
+	"Sontsov"
+	"Sudsky"
+	"Temnosiny"
+	"Troekurov"
+	"Ukhorsky"
+	"Ushaty"
+	"Velikogagin"
+	"Yukhotsky"
+	"Zaozersky"
+	"Zasekin"
+	"Zhirovy"
+	"Zubaty"
+}
+ship_names = {
+	"Berendeyevo"
+	"Borisoglebsky"
+	"Borok"
+	"Danilov"
+	"Itolar"
+	"Karabikha"
+	"Kurba"
+	"Lyubim"
+	"Myshkin"
+	"Nekouz"
+	"Nekrasovskoye"
+	"Pesochnoye"
+	"Petrovskoye"
+	"Prechistoye"
+	"Rybinsk"
+	"Semibratovo"
+	"Tunoshna"
+	"Uglich"
+	"Varegove"
+}

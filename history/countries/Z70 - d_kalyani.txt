@@ -1,0 +1,35 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = indian
+religion = hinduism
+primary_culture = kannada
+capital = 1948
+1392.1.7= {
+	monarch = {
+		name = "(Regency Council)"
+		adm = 2
+		dip = 2
+		mil = 1
+		birth_date = 1.1.1
+		regent = yes
+		religion = hinduism
+		culture = kannada
+	}
+	heir = {
+		name = "Govinda"
+		dynasty = "Kalachuri"
+		adm = 4
+		dip = 4
+		mil = 3
+		birth_date = 1382.11.14
+		death_date = 1447.11.14
+		claim = 89
+		religion = hinduism
+		culture = kannada
+	}
+}
+1392.1.7= {
+	add_prestige = -3
+	add_treasury = 65
+}

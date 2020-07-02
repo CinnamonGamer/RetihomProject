@@ -1,0 +1,40 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = eastern
+religion = jewish
+primary_culture = israeli
+capital = 2311
+1392.1.7= {
+	monarch = {
+		name = "Yehudai III"
+		dynasty = "of Takht-e Soleyman"
+		adm = 3
+		dip = 4
+		mil = 4
+		birth_date = 1368.5.22
+		religion = jewish
+		culture = israeli
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Scolaster"
+		dynasty = "Ben Michael"
+		adm = 3
+		dip = 4
+		mil = 2
+		country_of_origin = Z46
+		birth_date = 1350.5.28
+		death_date = 1410.5.28
+		female = yes
+		religion = jewish
+		culture = knaanic
+	}
+	add_queen_personality = conqueror_personality
+	add_queen_personality = fierce_negotiator_personality
+}
+1392.1.7= {
+	add_prestige = -6
+	add_treasury = 70
+}

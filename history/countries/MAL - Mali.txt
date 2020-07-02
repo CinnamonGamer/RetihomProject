@@ -1,0 +1,35 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = sub_saharan
+religion = west_african_pagan_reformed
+primary_culture = bambara
+capital = 2249
+1392.1.7= {
+	monarch = {
+		name = "(Regency Council)"
+		adm = 2
+		dip = 3
+		mil = 3
+		birth_date = 1.1.1
+		regent = yes
+		religion = west_african_pagan_reformed
+		culture = bambara
+	}
+	heir = {
+		name = "Bannu"
+		dynasty = "Bakrid"
+		adm = 4
+		dip = 5
+		mil = 5
+		birth_date = 1380.9.13
+		death_date = 1445.9.13
+		claim = 89
+		religion = west_african_pagan_reformed
+		culture = bambara
+	}
+}
+1392.1.7= {
+	add_prestige = 56
+	add_treasury = 76
+}

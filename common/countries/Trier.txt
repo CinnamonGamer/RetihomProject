@@ -1,0 +1,116 @@
+graphical_culture = westerngfx
+color = { 208 104 44 }
+revolutionary_colors = { 5 8 5 }
+historical_idea_groups = {
+	trade_ideas
+	religious_ideas
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	prussian_uhlan
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Ademar #0" = 0
+	"Adriana #0" = -1
+	"Arnold #0" = 0
+	"Balderik #0" = 0
+	"Baldewin #1" = 10
+	"Baldomar #1" = 10
+	"Benedicta #0" = -1
+	"Benilde #0" = -1
+	"Bona #0" = -1
+	"Cecilie #1" = -1
+	"Dat #0" = 0
+	"Eberhard #1" = 10
+	"Franz #0" = 0
+	"Friedrica #0" = -1
+	"Giuditta #0" = -1
+	"Gonzalo #0" = 0
+	"Guntram #1" = 10
+	"Gunzelin #0" = 0
+	"Heilwiva #1" = -1
+	"Helene #0" = -1
+	"Heribert #0" = 0
+	"Ida #0" = -1
+	"Ilsa #0" = -1
+	"Jaroslav #1" = 10
+	"Jimena #0" = -1
+	"Karl #0" = 0
+	"Kaspar #1" = 10
+	"Katharina #0" = -1
+	"Konrad #1" = 10
+	"Konrád #1" = 10
+	"Leopold #0" = 0
+	"Liutbrand #1" = 10
+	"Lodovica #0" = -1
+	"Markward #0" = 0
+	"Nikolaus #1" = 10
+	"Nuño #1" = 10
+	"Radbot #0" = 0
+	"Raisenda #0" = -1
+	"Reinaerd #1" = 10
+	"Serhilda #0" = -1
+	"Siegmund #1" = 10
+	"Stefan #0" = 0
+	"Udo #1" = 10
+	"Ursula #0" = -1
+	"Waldemar #0" = 0
+	"Werner #0" = 0
+}
+leader_names = {
+	"Backes"
+	"Corgell"
+	"Dahnfels"
+	"Feltes"
+	"Haerig"
+	"Hecker"
+	"Herrich"
+	"Kettler"
+	"Lohmann"
+	"Longnich"
+	"Pinkernell"
+	"Schmitt"
+	"Tristant"
+	"Wellner"
+	"Zimmer"
+}
+ship_names = {
+	"Aach"
+	"Gusterath"
+	"Hockweiler"
+	"Igel"
+	"Kasel"
+	"Kenn"
+	"Kordel"
+	"Korlingen"
+	"Longuich"
+	"Mertesdorf"
+	"Morscheid"
+	"Newel"
+	"Schweich"
+	"Waldrach"
+	"Zemmer"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+	"Erzbischofliche Garde"
+}

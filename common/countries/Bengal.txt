@@ -1,0 +1,124 @@
+graphical_culture = indiangfx
+color = { 36 109 194 }
+revolutionary_colors = { 9 5 9 }
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	humanist_ideas
+	quantity_ideas
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	quality_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	rajput_musketeer
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Betta #0" = 0
+	"Bhramarbara #0" = 0
+	"Devapala #1" = 10
+	"Dharmapala #2" = 10
+	"Firuz #1" = 10
+	"Gopala #2" = 10
+	"Hajo #1" = 10
+	"Indranatha #1" = 10
+	"Jitendranarayan #1" = 10
+	"Lakshminarayan #1" = 10
+	"Mahendrapala #1" = 10
+	"Mahipala #2" = 10
+	"Malik #1" = 10
+	"Mukunda #1" = 10
+	"Narayanapala #1" = 10
+	"Nayapala #1" = 10
+	"Prananarayan #1" = 10
+	"Prithvibhanja #0" = 0
+	"Prithvidena #0" = 0
+	"Rajendranarayan #1" = 10
+	"Rajyapala #1" = 10
+	"Ranga #1" = 10
+	"Shukladhwaj #1" = 10
+	"Silabhanja #1" = 10
+	"Traillokyachandra #2" = 10
+	"Uditanarayan #1" = 10
+	"Vasujyeshtha #1" = 10
+	"Vigrahapala #3" = 10
+	"Vijaysingha #1" = 10
+	"Vina #0" = -1
+}
+leader_names = {
+	"Azad"
+	"Bose"
+	"Chodhury"
+	"Das"
+	"Debshikdar"
+	"Ganesha"
+	"Ganguly"
+	"Ghosh"
+	"Karani"
+	"Khan"
+	"Majumdar"
+	"Mukerjhee"
+	"Pal"
+	"Roy"
+	"Saraswoti"
+	"Sarkar"
+	"Sen"
+	"Shahi"
+	"Shaikh"
+	"Suri"
+	"Thakur"
+	"Waddedar"
+	"Zamindar"
+	"ad-Daula"
+}
+ship_names = {
+	"Abu Bakr"
+	"Ali Khan"
+	"Bhagirathi"
+	"Brahmaputra"
+	"Chingri Mach"
+	"Chittagong"
+	"Durbar"
+	"Durdasha"
+	"Fatima"
+	"Ganga"
+	"Hilsa Mach"
+	"Hooghly"
+	"Ilish Mach"
+	"Jalangi"
+	"Jasmine"
+	"Kali Meghana"
+	"Kali Nauk"
+	"Kolkata"
+	"Lal Nauk"
+	"Machli"
+	"Malda"
+	"Meghna"
+	"Mongla"
+	"Murshidabad"
+	"Nauk-i-Islam"
+	"Nawaber Nauk"
+	"Nil Nauk"
+	"Nil Sagor"
+	"Osman"
+	"Padma"
+	"Rui Mach"
+	"Sagorer Bahini"
+	"Shaheed"
+	"Sheikher Nauk"
+	"Sonar Bangladesh"
+	"Sunderboner Bahini"
+	"Sunderboner Nauk"
+	"Tasleema"
+}

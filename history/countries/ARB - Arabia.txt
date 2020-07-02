@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 2
+technology_group = muslim
+religion = shiite
+primary_culture = al_misr_arabic
+capital = 392
+1392.1.7= {
+	monarch = {
+		name = "Nassib"
+		dynasty = "Fatimid"
+		adm = 2
+		dip = 5
+		mil = 2
+		birth_date = 1335.8.23
+		religion = shiite
+		culture = al_misr_arabic
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = scholar_personality
+	queen = {
+		name = "Nabila"
+		dynasty = "Fatimid"
+		adm = 4
+		dip = 3
+		mil = 5
+		country_of_origin = ARB
+		birth_date = 1331.11.18
+		death_date = 1391.11.18
+		female = yes
+		religion = shiite
+		culture = tuareg
+	}
+	add_queen_personality = intricate_web_weaver_personality
+	add_queen_personality = kind_hearted_personality
+	heir = {
+		name = "Majida"
+		monarch_name = "Majida"
+		dynasty = "Fatimid"
+		adm = 6
+		dip = 4
+		mil = 6
+		birth_date = 1354.4.24
+		death_date = 1419.4.24
+		female = yes
+		claim = 89
+		religion = shiite
+		culture = tuareg
+	}
+	add_heir_personality = drunkard_personality
+	add_heir_personality = midas_touched_personality
+}
+1392.1.7= {
+	add_prestige = 89
+	add_treasury = 55
+}

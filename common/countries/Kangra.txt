@@ -1,0 +1,90 @@
+graphical_culture = muslimgfx
+color = { 29 124 255 }
+revolutionary_colors = { 10 4 10 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	quality_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_footsoldier
+	indian_rifle
+	mughal_musketeer
+	rajput_hill_fighters
+	rajput_musketeer
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Ahmet #0" = 0
+	"Akgul #0" = -1
+	"Arghavan #0" = -1
+	"Aslihan #0" = -1
+	"Belek #0" = 0
+	"Berkiyaruk #0" = 0
+	"Burak #0" = 0
+	"Changtu #0" = 0
+	"Dukak #0" = 0
+	"Gulçiçek #0" = -1
+	"Gunduz #0" = 0
+	"Ipek #0" = -1
+	"Jüçi #0" = 0
+	"Kaytun #0" = 0
+	"Khorijin #0" = -1
+	"Kutay #0" = 0
+	"Nur #0" = -1
+	"Porsuk #0" = 0
+	"Saim #0" = 0
+	"Sevilay #0" = -1
+	"Sibel #0" = -1
+	"Suleyman #0" = 0
+	"Timurtas #0" = 0
+	"Torma #0" = -1
+	"Xian'e #0" = -1
+	"Zehra #0" = -1
+	"Çilen #0" = -1
+	"Çiçek #0" = -1
+}
+leader_names = {
+	"Bais"
+	"Bhaal"
+	"Bhangalia"
+	"Chattar"
+	"Chudasama"
+	"Jadeja"
+	"Katoch"
+	"Minha"
+	"Pahore"
+	"Pakhral"
+	"Pundir"
+	"Saran"
+	"Singh"
+}
+ship_names = {
+	"Beas"
+	"Chenab"
+	"Devi"
+	"Gayatri"
+	"Guru"
+	"Indus"
+	"Jalsena"
+	"Jhelum"
+	"Lakshmi"
+	"Nausena"
+	"Nav ka Yudh"
+	"Parvati"
+	"Radha"
+	"Ratri"
+	"Ravi"
+	"Sagar"
+	"Sarasvati"
+	"Sita"
+	"Sutlej"
+}

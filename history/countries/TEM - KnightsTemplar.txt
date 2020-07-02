@@ -1,0 +1,26 @@
+government = theocracy
+add_government_reform = monastic_order_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = cosmopolitan_french
+capital = 177
+add_army_professionalism = 0.05
+1392.1.7= {
+	monarch = {
+		name = "Artbran"
+		dynasty = "Dunbar"
+		adm = 2
+		dip = 4
+		mil = 2
+		birth_date = 1336.2.23
+		religion = catholic
+		culture = cosmopolitan_french
+	}
+	add_ruler_personality = fierce_negotiator_personality
+	add_ruler_personality = infertile_personality
+}
+1392.1.7= {
+	add_prestige = 49
+	add_treasury = 97
+}

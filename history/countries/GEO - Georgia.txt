@@ -1,0 +1,41 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 2
+technology_group = western
+religion = orthodox
+primary_culture = dalmatian
+capital = 423
+1392.1.7= {
+	monarch = {
+		name = "Rade"
+		dynasty = "Bodacia"
+		adm = 3
+		dip = 2
+		mil = 2
+		birth_date = 1326.9.18
+		female = yes
+		religion = orthodox
+		culture = dalmatian
+	}
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = tolerant_personality
+	heir = {
+		name = "Michael"
+		monarch_name = "Michael"
+		dynasty = "Cataro"
+		adm = 6
+		dip = 4
+		mil = 5
+		birth_date = 1365.10.28
+		death_date = 1430.10.28
+		claim = 89
+		religion = catholic
+		culture = dalmatian
+	}
+	add_heir_personality = lawgiver_personality
+	add_heir_personality = secretive_personality
+}
+1392.1.7= {
+	add_prestige = 42
+	add_treasury = 63
+}

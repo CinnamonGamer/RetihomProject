@@ -1,0 +1,11 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = nomad_group
+religion = vajrayana
+primary_culture = uyghur
+capital = 461
+1392.1.7= {
+	add_prestige = 87
+	add_treasury = 10
+}

@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = plutocratic_reform
+government_rank = 2
+technology_group = indian
+religion = hinduism
+primary_culture = kannada
+capital = 2050
+mercantilism = 15
+1392.1.7= {
+	monarch = {
+		name = "Govinda V"
+		dynasty = "Kakatiya"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 1360.8.4
+		religion = hinduism
+		culture = kannada
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = lawgiver_personality
+	queen = {
+		name = "Malavyadevi"
+		dynasty = "Rashtrakuta"
+		adm = 3
+		dip = 2
+		mil = 3
+		country_of_origin = Z25
+		birth_date = 1361.11.19
+		death_date = 1421.11.19
+		female = yes
+		religion = vajrayana
+		culture = bihari
+	}
+	add_queen_personality = secretive_personality
+	add_queen_personality = silver_tongue_personality
+	heir = {
+		name = "Ereyanga"
+		monarch_name = "Ereyanga"
+		dynasty = "Kakatiya"
+		adm = 2
+		dip = 3
+		mil = 3
+		birth_date = 1384.3.7
+		death_date = 1449.3.7
+		claim = 89
+		religion = hinduism
+		culture = kannada
+	}
+	add_heir_personality = free_thinker_personality
+	add_heir_personality = tactical_genius_personality
+}
+1392.1.7= {
+	add_prestige = 45
+	add_treasury = 0
+}

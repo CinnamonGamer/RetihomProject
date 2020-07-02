@@ -1,0 +1,127 @@
+graphical_culture = muslimgfx
+color = { 63 150 30 }
+revolutionary_colors = { 4 0 4 }
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	administrative_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	rajput_musketeer
+	reformed_mughal_mansabdar
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Afsin #0" = 0
+	"Ayasun #0" = -1
+	"Ayaz #1" = 10
+	"Aydin #0" = 0
+	"Baturay #0" = 0
+	"Bayezid #1" = 10
+	"Bozan #0" = 0
+	"Bugra #1" = 10
+	"Cuneyd #0" = 0
+	"Danismend #1" = 10
+	"Dayaram #1" = 10
+	"Demir #1" = 10
+	"Ertugrul #1" = 10
+	"Gulbahar #0" = -1
+	"Gulçiçek #0" = -1
+	"Gumus #0" = -1
+	"Hayat #0" = -1
+	"Ilgazi #4" = 10
+	"Inal #0" = 0
+	"Irge #0" = -1
+	"Kaikaus #0" = 0
+	"Kalasa #1" = 10
+	"Karacik #0" = -1
+	"Kiliç #0" = 0
+	"Kurboga #3" = 10
+	"Kutay #0" = 0
+	"Masud #1" = 10
+	"Meliksah #1" = 10
+	"Orhan #1" = 10
+	"Ramazan #1" = 10
+	"Saruca #0" = 0
+	"Sevindik #0" = -1
+	"Sibel #0" = -1
+	"Sinan #0" = 0
+	"Sirin #0" = -1
+	"Tekin #0" = 0
+	"Timurtas #2" = 10
+	"Tugrul #1" = 10
+	"Tura #0" = -1
+	"Turhan #0" = 0
+	"Yakut #1" = 10
+	"Yinal #1" = 10
+}
+leader_names = {
+	"Afridi"
+	"Bahadur"
+	"Bakhsh"
+	"Bhangalia"
+	"Bhatta"
+	"Chandral"
+	"Das"
+	"Dev"
+	"Gahunia"
+	"Gami"
+	"Hamadani"
+	"Jamwal"
+	"Jivan"
+	"Kashmiri"
+	"Katoch"
+	"Kisthwaria"
+	"Kralawari"
+	"Lal"
+	"Makhdum"
+	"Malik"
+	"Mehsud"
+	"Mir"
+	"Naga"
+	"Pahore"
+	"Pakhral"
+	"Parmanand"
+	"Pundir"
+	"Rai"
+	"Shergill"
+	"Singh"
+	"Sodhi"
+	"Sohal"
+}
+ship_names = {
+	"Alia"
+	"Alisha"
+	"Aziza"
+	"Beas"
+	"Chenab"
+	"Fatimah"
+	"Guru"
+	"Indus"
+	"Jalsena"
+	"Jhelum"
+	"Khan"
+	"Nausena"
+	"Nav ka Yudh"
+	"Niknaz"
+	"Niloufa"
+	"Ravi"
+	"Sagar"
+	"Sutlej"
+	"Yasmine"
+	"Zahira"
+}

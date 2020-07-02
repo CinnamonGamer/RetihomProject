@@ -1,0 +1,12 @@
+graphical_culture = asiangfx
+color = { 177 57 7 }
+monarch_names = {
+	"Devitara #0" = -1
+	"Gesar #0" = 0
+	"Lingpa #0" = 0
+	"Pelgyimo #0" = -1
+	"Tawen #0" = 0
+	"Tsangma #0" = 0
+	"Tsemo #0" = 0
+	"Tsentsän #0" = 0
+}

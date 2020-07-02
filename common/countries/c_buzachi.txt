@@ -1,0 +1,11 @@
+graphical_culture = easterngfx
+color = { 140 150 38 }
+monarch_names = {
+	"Asli #0" = -1
+	"Bönek #0" = 0
+	"Gundes #0" = -1
+	"Itlar #0" = 0
+	"Karacik #0" = -1
+	"Sati #0" = -1
+	"Uzur #0" = 0
+}

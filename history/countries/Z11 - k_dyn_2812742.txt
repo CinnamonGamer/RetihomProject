@@ -1,0 +1,55 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+technology_group = muslim
+religion = catholic
+primary_culture = cuman
+capital = 439
+1392.1.7= {
+	monarch = {
+		name = "Kopti"
+		dynasty = "Kopti"
+		adm = 3
+		dip = 2
+		mil = 4
+		birth_date = 1318.7.18
+		religion = catholic
+		culture = cuman
+	}
+	add_ruler_personality = inspiring_leader_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Irge"
+		dynasty = "Ghaznavid"
+		adm = 4
+		dip = 2
+		mil = 3
+		country_of_origin = Z11
+		birth_date = 1336.12.3
+		death_date = 1396.12.3
+		female = yes
+		religion = sunni
+		culture = turkmeni
+	}
+	add_queen_personality = bold_fighter_personality
+	add_queen_personality = strict_personality
+	heir = {
+		name = "Etrek"
+		monarch_name = "Etrek"
+		dynasty = "Kopti"
+		adm = 6
+		dip = 3
+		mil = 6
+		birth_date = 1354.2.15
+		death_date = 1419.2.15
+		claim = 89
+		religion = catholic
+		culture = galician
+	}
+	add_heir_personality = malevolent_personality
+	add_heir_personality = tactical_genius_personality
+}
+1392.1.7= {
+	add_prestige = 70
+	add_treasury = 0
+}

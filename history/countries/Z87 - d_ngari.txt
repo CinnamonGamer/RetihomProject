@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = indian_sultanate_reform
+government_rank = 1
+technology_group = ottoman
+religion = sunni
+primary_culture = turkish
+capital = 4520
+1392.1.7= {
+	monarch = {
+		name = "Rustem"
+		dynasty = "Palrin"
+		adm = 2
+		dip = 2
+		mil = 2
+		birth_date = 1363.1.26
+		religion = sunni
+		culture = turkish
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = kind_hearted_personality
+	queen = {
+		name = "Irge"
+		dynasty = "Ghaznavid"
+		adm = 2
+		dip = 5
+		mil = 2
+		country_of_origin = Z87
+		birth_date = 1354.8.9
+		death_date = 1414.8.9
+		female = yes
+		religion = sunni
+		culture = turkmeni
+	}
+	add_queen_personality = benevolent_personality
+	add_queen_personality = calm_personality
+	heir = {
+		name = "Dunya"
+		monarch_name = "Dunya"
+		dynasty = "Palrin"
+		adm = 3
+		dip = 3
+		mil = 2
+		birth_date = 1384.11.11
+		death_date = 1449.11.11
+		female = yes
+		claim = 89
+		religion = sunni
+		culture = turkmeni
+	}
+	add_heir_personality = calm_personality
+	add_heir_personality = zealot_personality
+}
+1392.1.7= {
+	add_prestige = 55
+	add_treasury = 51
+}

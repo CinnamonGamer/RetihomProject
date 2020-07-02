@@ -1,0 +1,41 @@
+government = republic
+add_government_reform = peasants_republic
+government_rank = 1
+technology_group = indian
+religion = hinduism
+primary_culture = kannada
+capital = 1948
+fixed_capital = 1948
+1392.1.7= {
+	monarch = {
+		name = "Gangaraja"
+		dynasty = "Chernobylid"
+		adm = 2
+		dip = 1
+		mil = 2
+		birth_date = 1361.5.7
+		religion = hinduism
+		culture = kannada
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = secretive_personality
+	queen = {
+		name = "Prasadhanadevi"
+		dynasty = "Paramara"
+		adm = 3
+		dip = 1
+		mil = 4
+		country_of_origin = Y33
+		birth_date = 1368.1.18
+		death_date = 1428.1.18
+		female = yes
+		religion = hinduism
+		culture = malvi
+	}
+	add_queen_personality = bold_fighter_personality
+	add_queen_personality = careful_personality
+}
+1392.1.7= {
+	add_prestige = 33
+	add_treasury = 66
+}

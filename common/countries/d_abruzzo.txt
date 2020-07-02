@@ -1,0 +1,24 @@
+graphical_culture = westerngfx
+color = { 210 168 190 }
+monarch_names = {
+	"Adalhard #1" = 10
+	"Agnes #1" = -1
+	"Alaïs #0" = -1
+	"Arnold #0" = 0
+	"Bérengère #1" = -1
+	"Constanza #1" = -1
+	"Dietrich #0" = 0
+	"Dioniso #1" = 10
+	"Dodon #0" = 0
+	"Eisabèu #0" = -1
+	"Eufemia #1" = -1
+	"Gebhard #0" = 0
+	"Helena #1" = -1
+	"Helene #1" = -1
+	"Lothar #1" = 10
+	"Ludwig #1" = 10
+	"Rinaldo #1" = 10
+	"Serlo #1" = 10
+	"Tancred #1" = 10
+	"Welf #0" = 0
+}

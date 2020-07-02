@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = east_african
+religion = shiite
+primary_culture = daju
+capital = 1219
+fixed_capital = 1219
+1392.1.7= {
+	monarch = {
+		name = "Khalil"
+		dynasty = "Kaukabi"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 1349.4.21
+		religion = shiite
+		culture = daju
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Ñoltou"
+		dynasty = "Ephannêid"
+		adm = 3
+		dip = 3
+		mil = 3
+		country_of_origin = DAR
+		birth_date = 1351.2.28
+		death_date = 1411.2.28
+		female = yes
+		religion = shiite
+		culture = beja
+	}
+	add_queen_personality = midas_touched_personality
+	add_queen_personality = silver_tongue_personality
+	heir = {
+		name = "Hamam"
+		monarch_name = "Hamam"
+		dynasty = "Kaukabi"
+		adm = 0
+		dip = 1
+		mil = 0
+		birth_date = 1388.7.23
+		death_date = 1453.7.23
+		female = yes
+		claim = 89
+		religion = shiite
+		culture = daju
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1392.1.7= {
+	add_prestige = 5
+	add_treasury = 76
+}

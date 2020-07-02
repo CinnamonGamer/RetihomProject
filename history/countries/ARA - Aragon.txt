@@ -1,0 +1,36 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 2
+technology_group = western
+religion = catholic
+primary_culture = castillian
+capital = 214
+1392.1.7= {
+	monarch = {
+		name = "(Regency Council)"
+		adm = 1
+		dip = 3
+		mil = 1
+		birth_date = 1.1.1
+		regent = yes
+		religion = catholic
+		culture = castillian
+	}
+	heir = {
+		name = "Teresa"
+		dynasty = "Clintonische"
+		adm = 3
+		dip = 5
+		mil = 3
+		birth_date = 1376.3.1
+		death_date = 1441.3.1
+		female = yes
+		claim = 89
+		religion = catholic
+		culture = castillian
+	}
+}
+1392.1.7= {
+	add_prestige = 59
+	add_treasury = 0
+}

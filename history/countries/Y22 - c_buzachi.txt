@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+technology_group = muslim
+religion = catholic
+primary_culture = cuman
+capital = 439
+fixed_capital = 439
+1392.1.7= {
+	monarch = {
+		name = "Uzur"
+		dynasty = "Etrekid"
+		adm = 3
+		dip = 4
+		mil = 4
+		birth_date = 1359.4.10
+		religion = catholic
+		culture = cuman
+	}
+	add_ruler_personality = greedy_personality
+	add_ruler_personality = infertile_personality
+	queen = {
+		name = "Sirma"
+		dynasty = "Kopti"
+		adm = 3
+		dip = 2
+		mil = 2
+		country_of_origin = Y22
+		birth_date = 1363.5.18
+		death_date = 1423.5.18
+		female = yes
+		religion = catholic
+		culture = cuman
+	}
+	add_queen_personality = infertile_personality
+	add_queen_personality = midas_touched_personality
+	heir = {
+		name = "Etrek"
+		monarch_name = "Etrek"
+		dynasty = "Etrekid"
+		adm = 1
+		dip = 2
+		mil = 1
+		birth_date = 1385.11.20
+		death_date = 1450.11.20
+		claim = 89
+		religion = vajrayana
+		culture = astrakhani
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1392.1.7= {
+	add_prestige = 35
+	add_treasury = 33
+}

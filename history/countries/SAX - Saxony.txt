@@ -1,0 +1,41 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = lower_saxon
+capital = 57
+elector = yes
+1392.1.7= {
+	monarch = {
+		name = "Adalbert"
+		dynasty = "Billung"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 1375.1.13
+		religion = catholic
+		culture = lower_saxon
+	}
+	add_ruler_personality = free_thinker_personality
+	add_ruler_personality = midas_touched_personality
+	queen = {
+		name = "Klara"
+		dynasty = "von Plain"
+		adm = 3
+		dip = 5
+		mil = 4
+		country_of_origin = SAX
+		birth_date = 1374.10.13
+		death_date = 1434.10.13
+		female = yes
+		religion = catholic
+		culture = alsatian
+	}
+	add_queen_personality = infertile_personality
+	add_queen_personality = tolerant_personality
+}
+1392.1.7= {
+	add_prestige = 22
+	add_treasury = 55
+}

@@ -1,0 +1,41 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = muslim
+religion = jewish
+primary_culture = misrayim
+capital = 2449
+1392.1.7= {
+	monarch = {
+		name = "Taljat"
+		dynasty = "Ajeddigid"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 1324.8.3
+		female = yes
+		religion = jewish
+		culture = misrayim
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = tolerant_personality
+	heir = {
+		name = "Dodai"
+		monarch_name = "Dodai"
+		dynasty = "of Durunka"
+		adm = 5
+		dip = 4
+		mil = 5
+		birth_date = 1349.3.28
+		death_date = 1414.3.28
+		claim = 89
+		religion = jewish
+		culture = knaanic
+	}
+	add_heir_personality = lawgiver_personality
+	add_heir_personality = midas_touched_personality
+}
+1392.1.7= {
+	add_prestige = 0
+	add_treasury = 53
+}

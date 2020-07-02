@@ -1,0 +1,27 @@
+graphical_culture = africangfx
+color = { 139 51 149 }
+monarch_names = {
+	"Bako #2" = 10
+	"Bawo #0" = 0
+	"Cothilda #0" = -1
+	"Faruq #3" = 10
+	"Hamzah #1" = 10
+	"Imam #1" = 10
+	"Ismaila #0" = 0
+	"Jamal #1" = 10
+	"Kabe #0" = 0
+	"Khamisa #1" = -1
+	"Kukuna #1" = 10
+	"Lubabah #0" = -1
+	"Maammarou #0" = 0
+	"Marka #0" = -1
+	"Muhsin #1" = 10
+	"Nadia #0" = -1
+	"Nasir #2" = 10
+	"Sidi #0" = 0
+	"Talatu #0" = -1
+	"Tunka #0" = 0
+	"Yakubu #0" = 0
+	"Youma #0" = -1
+	"Zeïnab #0" = -1
+}

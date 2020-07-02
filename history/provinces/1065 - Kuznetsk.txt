@@ -1,0 +1,24 @@
+owner = Z90
+controller = Z90
+capital = "Kuznetsk"
+is_city = yes
+culture = oirats
+religion = vajrayana
+trade_goods = unknown
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = Z90
+add_core = ZUN
+discovered_by = eastern
+discovered_by = indian
+discovered_by = muslim
+discovered_by = nomad_group
+discovered_by = ottoman
+discovered_by = western
+native_size = 10
+native_ferocity = 1
+native_hostileness = 3
+latent_trade_goods = {
+	coal
+}

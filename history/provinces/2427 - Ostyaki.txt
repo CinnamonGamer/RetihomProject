@@ -1,0 +1,8 @@
+capital = "Beloyarskiy"
+culture = ostyaki
+religion = tengri_pagan
+trade_goods = fur
+base_tax = 3
+base_production = 3
+base_manpower = 3
+unrest = 15

@@ -1,0 +1,20 @@
+graphical_culture = indiangfx
+color = { 140 50 10 }
+monarch_names = {
+	"Bhoj #0" = 0
+	"Gunes #0" = -1
+	"Ipek #0" = -1
+	"Jaipal #0" = 0
+	"Jayavarman #0" = 0
+	"Kanwar #0" = -1
+	"Karnadevi #0" = -1
+	"Kaytun #0" = 0
+	"Korkut #0" = 0
+	"Mahendrani #0" = -1
+	"Merve #0" = -1
+	"Nattadevi #0" = -1
+	"Prithviraj #0" = 0
+	"Sumru #0" = -1
+	"Tihunaka #0" = -1
+	"Vasumitra #0" = 0
+}

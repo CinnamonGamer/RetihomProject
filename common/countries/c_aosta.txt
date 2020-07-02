@@ -1,0 +1,7 @@
+graphical_culture = westerngfx
+color = { 118 18 50 }
+monarch_names = {
+	"Claeuwaert #0" = 0
+	"Filippo #0" = 0
+	"Frode #0" = 0
+}

@@ -1,0 +1,101 @@
+graphical_culture = westerngfx
+color = { 115 142 205 }
+revolutionary_colors = { 8 1 8 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+	religious_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	french_impulse
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	prussian_uhlan
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Adalbert #1" = 10
+	"Aepak #1" = 10
+	"Antoon #0" = 0
+	"Arnfinn #1" = 10
+	"Baldomar #0" = 0
+	"Beatrix #1" = -1
+	"Benedicta #1" = -1
+	"Bruno #1" = 10
+	"Catone #1" = 10
+	"Diego #0" = 0
+	"Dietmar #0" = 0
+	"Dietrich #3" = 10
+	"Engelbert #1" = 10
+	"Eudes #1" = 10
+	"Friedrich #3" = 10
+	"Gaspar #1" = 10
+	"Gebhard #1" = 10
+	"Gerhard #1" = 10
+	"Giselbert #1" = 10
+	"Gottfried #5" = 10
+	"Gotzelo #1" = 10
+	"Heinrich #1" = 10
+	"Johann #1" = 10
+	"Konrad #1" = 10
+	"Kutan #1" = 10
+	"Nikolaus #2" = 10
+	"Odelt #0" = -1
+	"Ordoño #0" = 0
+	"Otto #1" = 10
+	"Philipp #1" = 10
+	"Pulad #1" = 10
+	"Reginar #1" = 10
+	"Reinaerd #1" = 10
+	"Savary #1" = 10
+	"Siegmund #1" = 10
+	"Sisso #1" = 10
+	"Sokal #1" = 10
+	"Wido #0" = 0
+	"Willemine #0" = -1
+}
+leader_names = {
+	"Bickling"
+	"Braun"
+	"Detemple"
+	"Fent"
+	"Feyerabend"
+	"Forthober"
+	"Freymuth"
+	"Kathrein"
+	"Krogloth"
+	"Limburg"
+	"Neubert"
+	"Oberlothringen"
+	"Wolferseder"
+	"von Elsass"
+}
+ship_names = {
+	"Toul"
+	"l'Empereur Lothaire"
+	"le Barrois"
+	"le Bera"
+	"le Lorraine"
+	"le Metz"
+	"le René II de Lorraine"
+	"le Scoc"
+	"le Sekjan"
+	"le Skirmjan"
+	"le Verdun"
+	"le Warding"
+}

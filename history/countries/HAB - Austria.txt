@@ -1,0 +1,25 @@
+government = republic
+add_government_reform = oligarchy_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = austrian
+capital = 134
+1392.1.7= {
+	monarch = {
+		name = "Heinrich"
+		dynasty = "von Eselsberg"
+		adm = 3
+		dip = 3
+		mil = 4
+		birth_date = 1345.12.22
+		religion = catholic
+		culture = austrian
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = secretive_personality
+}
+1392.1.7= {
+	add_prestige = 62
+	add_treasury = 72
+}

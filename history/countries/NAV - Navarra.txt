@@ -1,0 +1,12 @@
+government = theocracy
+add_government_reform = monastic_order_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = castillian
+capital = 209
+add_army_professionalism = 0.05
+1392.1.7= {
+	add_prestige = 32
+	add_treasury = 70
+}

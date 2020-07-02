@@ -1,0 +1,40 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 2
+technology_group = western
+religion = catholic
+primary_culture = normand
+capital = 251
+1392.1.7= {
+	monarch = {
+		name = "Agnes"
+		dynasty = "de Crepon"
+		adm = 4
+		dip = 3
+		mil = 2
+		birth_date = 1356.3.17
+		female = yes
+		religion = catholic
+		culture = normand
+	}
+	add_ruler_personality = malevolent_personality
+	add_ruler_personality = secretive_personality
+	queen = {
+		name = "Offa"
+		dynasty = "de Toron"
+		adm = 4
+		dip = 4
+		mil = 4
+		country_of_origin = SCO
+		birth_date = 1365.10.1
+		death_date = 1425.10.1
+		religion = catholic
+		culture = normand
+	}
+	add_queen_personality = pious_personality
+	add_queen_personality = tactical_genius_personality
+}
+1392.1.7= {
+	add_prestige = 30
+	add_treasury = 0
+}

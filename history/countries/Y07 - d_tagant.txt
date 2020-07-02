@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = sub_saharan
+religion = west_african_pagan_reformed
+primary_culture = senegambian
+capital = 2243
+1392.1.7= {
+	monarch = {
+		name = "Yasiboy"
+		dynasty = "Nintasanayid"
+		adm = 4
+		dip = 5
+		mil = 5
+		birth_date = 1358.6.20
+		religion = west_african_pagan_reformed
+		culture = senegambian
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = strict_personality
+	queen = {
+		name = "Djire"
+		dynasty = "Niakhate"
+		adm = 4
+		dip = 4
+		mil = 2
+		country_of_origin = Y07
+		birth_date = 1363.10.8
+		death_date = 1423.10.8
+		female = yes
+		religion = west_african_pagan_reformed
+		culture = bambara
+	}
+	add_queen_personality = fierce_negotiator_personality
+	add_queen_personality = intricate_web_weaver_personality
+	heir = {
+		name = "Fädazu"
+		monarch_name = "Fädazu II"
+		dynasty = "Nintasanayid"
+		adm = 1
+		dip = 0
+		mil = 1
+		birth_date = 1388.8.15
+		death_date = 1453.8.15
+		claim = 89
+		religion = west_african_pagan_reformed
+		culture = bambara
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1392.1.7= {
+	add_prestige = 61
+	add_treasury = 91
+}

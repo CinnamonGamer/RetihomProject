@@ -1,0 +1,25 @@
+graphical_culture = easterngfx
+color = { 127 255 120 }
+monarch_names = {
+	"Asep #1" = 10
+	"Asli #0" = -1
+	"Bachman #0" = 0
+	"Borç #0" = 0
+	"Bozçin #0" = -1
+	"Esin #0" = -1
+	"Etrek #0" = 0
+	"Gulay #0" = -1
+	"Ilkay #0" = -1
+	"Ipekel #0" = -1
+	"Itlar #0" = 0
+	"Karacik #0" = -1
+	"Kutan #0" = 0
+	"Samur #0" = -1
+	"Sati #0" = -1
+	"Sevindik #0" = -1
+	"Sirma #0" = -1
+	"Togli #0" = 0
+	"Törtogul #0" = 0
+	"Umay #0" = -1
+	"Özgul #0" = -1
+}

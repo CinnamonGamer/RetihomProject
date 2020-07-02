@@ -1,0 +1,12 @@
+graphical_culture = muslimgfx
+color = { 101 101 21 }
+monarch_names = {
+	"Ayasun #0" = -1
+	"Balgor #0" = 0
+	"Bizel #0" = 0
+	"Gunduz #0" = -1
+	"Isaias #0" = 0
+	"Karacik #0" = -1
+	"Kegen #0" = 0
+	"Kuerçi #0" = 0
+}

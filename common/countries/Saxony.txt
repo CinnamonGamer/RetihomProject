@@ -1,0 +1,114 @@
+graphical_culture = westerngfx
+color = { 155 147 180 }
+revolutionary_colors = { 0 9 0 }
+historical_idea_groups = {
+	diplomatic_ideas
+	defensive_ideas
+	innovativeness_ideas
+	offensive_ideas
+	economic_ideas
+	trade_ideas
+	quality_ideas
+	administrative_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	prussian_uhlan
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Adalbert #1" = 10
+	"Adalhard #0" = 0
+	"Adam #0" = 0
+	"Amalia #1" = -1
+	"Baldarich #0" = 0
+	"Bernhard #2" = 10
+	"Christine #0" = -1
+	"Ekkehard #5" = 10
+	"Engelbert #1" = 10
+	"Ernst #1" = 10
+	"Gautselin #1" = 10
+	"Gerberga #0" = -1
+	"Goukouni #0" = 0
+	"Heinrich #1" = 10
+	"Hermann #1" = 10
+	"Humbert #1" = 10
+	"Ilsa #0" = -1
+	"Irmele #0" = -1
+	"Isentrude #0" = -1
+	"Karlotte #1" = -1
+	"Klara #1" = -1
+	"Ludwig #1" = 10
+	"Luidolf #1" = 10
+	"Magnus #1" = 10
+	"Ordulf #2" = 10
+	"Otto #2" = 10
+	"Reinhold #0" = 0
+	"Sieghard #1" = 10
+	"Theoderic #1" = 10
+	"Welf #0" = 0
+}
+leader_names = {
+	"Arnim"
+	"Bieber"
+	"Bretfeld"
+	"Deitz"
+	"Dietze"
+	"Fischer"
+	"Gödel"
+	"Hamann"
+	"Harzer"
+	"Hergesell"
+	"Kirbach"
+	"Kranke"
+	"Kuhn"
+	"Oelssner"
+	"Oertel"
+	"Pilz"
+	"Rabs"
+	"Rank"
+	"Schönfeld"
+	"Sehm"
+	"Taut"
+	"Teichmann"
+	"Tellig"
+	"Uebigau"
+	"Uhlich"
+	"Winkler"
+	"von Rath"
+}
+ship_names = {
+	"Bernhard I"
+	"Billing"
+	"Brun"
+	"Edberg"
+	"Heinrich I"
+	"Heinrich II"
+	"Liedolf"
+	"Lothar"
+	"Manus"
+	"Ordulf"
+	"Otto I"
+	"Wichman"
+	"Widukind"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+	"Kurfürstliche Garde"
+}
+fleet_names = {
+	"Kurfürstliche Flotte"
+}
+preferred_religion = protestant

@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = sub_saharan
+religion = west_african_pagan_reformed
+primary_culture = dyola
+capital = 1135
+1392.1.7= {
+	monarch = {
+		name = "Yasiboy II"
+		dynasty = "Buricimba"
+		adm = 5
+		dip = 3
+		mil = 3
+		birth_date = 1331.7.24
+		religion = west_african_pagan_reformed
+		culture = dyola
+	}
+	add_ruler_personality = martial_educator_personality
+	add_ruler_personality = tactical_genius_personality
+	queen = {
+		name = "Namandjé"
+		dynasty = "Niakhate"
+		adm = 3
+		dip = 5
+		mil = 3
+		country_of_origin = YAT
+		birth_date = 1329.7.20
+		death_date = 1389.7.20
+		female = yes
+		religion = west_african_pagan_reformed
+		culture = bambara
+	}
+	add_queen_personality = lawgiver_personality
+	add_queen_personality = strict_personality
+	heir = {
+		name = "M'Bali"
+		monarch_name = "M'Bali"
+		dynasty = "Buricimba"
+		adm = 5
+		dip = 3
+		mil = 5
+		birth_date = 1350.4.5
+		death_date = 1415.4.5
+		claim = 89
+		religion = west_african_pagan_reformed
+		culture = bambara
+	}
+	add_heir_personality = righteous_personality
+	add_heir_personality = strict_personality
+}
+1392.1.7= {
+	add_prestige = 77
+	add_treasury = 61
+}

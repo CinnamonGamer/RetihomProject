@@ -1,0 +1,275 @@
+graphical_culture = easterngfx
+color = { 20 138 255 }
+monarch_names = {
+	"Abba #0" = 0
+	"Acenith #0" = -1
+	"Achunai #1" = 10
+	"Adalbert #1" = 10
+	"Ammi #0" = 0
+	"Bahiyya #0" = -1
+	"Baruch #0" = 0
+	"Bashira #0" = -1
+	"Beila #0" = -1
+	"Belet #0" = -1
+	"Bibai #0" = 0
+	"Bustenai #0" = 0
+	"Chana #0" = -1
+	"Chananel #0" = 0
+	"Chizkiyah #0" = 0
+	"Doltza #0" = -1
+	"Dudai #0" = 0
+	"Efrayim #1" = 10
+	"Elazar #0" = 0
+	"Elchanan #1" = 10
+	"Eldad #0" = 0
+	"Ermengarde #1" = -1
+	"Esther #0" = -1
+	"Gedalyah #0" = 0
+	"Guilhem #1" = 10
+	"Hila #0" = 0
+	"Hillel #1" = 10
+	"Huma #0" = -1
+	"Isaac #1" = 10
+	"Jori #0" = 0
+	"Kafnai #0" = 0
+	"Khreere #0" = -1
+	"Kiyomi #0" = 0
+	"Madrona #0" = -1
+	"Mahsa #0" = -1
+	"Mari #1" = 10
+	"Marta #0" = -1
+	"Matrona #0" = -1
+	"Maurikios #0" = 0
+	"Menashe #0" = 0
+	"Meshulam #0" = 0
+	"Minna #0" = -1
+	"Mordechai #0" = 0
+	"Paltoi #0" = 0
+	"Pirkoi #0" = 0
+	"Pishai #0" = 0
+	"Pultzelina #0" = -1
+	"Rachel #0" = -1
+	"Rava #0" = 0
+	"Ravai #0" = 0
+	"Rivkah #0" = -1
+	"Romilda #0" = -1
+	"Ruweis #0" = 0
+	"Saris #0" = -1
+	"Scolaster #0" = -1
+	"Sheshna #1" = 10
+	"Shlomo #0" = 0
+	"Shluida #0" = -1
+	"Shoinlin #0" = -1
+	"Siegfried #0" = 0
+	"Tachlifa #0" = 0
+	"Tanest #0" = -1
+	"Tziporah #0" = -1
+	"Yehudis #0" = -1
+	"Yeintil #0" = -1
+	"Yitzchak #1" = 10
+	"Yoshiah #1" = 10
+	"Yuda #0" = 0
+	"Zwina #0" = -1
+}
+leader_names = {
+	"Abba"
+	"Abbaye"
+	"Acha"
+	"Achai"
+	"Achunai"
+	"Aharon"
+	"Alechsandri"
+	"Ammi"
+	"Amram"
+	"Amunah"
+	"Asher"
+	"Ashi"
+	"Avomai"
+	"Avraham"
+	"Azariah"
+	"Baboi"
+	"Baruch"
+	"Bibai"
+	"Binyamin"
+	"Boaz"
+	"Bustenai"
+	"Chaim"
+	"Chanan"
+	"Chananel"
+	"Chaninai"
+	"Chanoch"
+	"Chayim"
+	"Chelbo"
+	"Chisdai"
+	"Chiyya"
+	"Chizkiyah"
+	"Chofni"
+	"Chushiel"
+	"Daniel"
+	"David"
+	"Dimi"
+	"Dodai"
+	"Dudai"
+	"Efrayim"
+	"Eina"
+	"Elazar"
+	"Elchanan"
+	"Eldad"
+	"Eliezer"
+	"Elyakim"
+	"Gedalyah"
+	"Gershom"
+	"Ghayyat"
+	"Giat"
+	"Giza"
+	"Hila"
+	"Hillel"
+	"Isaac"
+	"Ivomai"
+	"Kafnai"
+	"Kahana"
+	"Kalonymos"
+	"Kiyomi"
+	"Levi"
+	"Machir"
+	"Malcha"
+	"Mar"
+	"Mari"
+	"Matiyahu"
+	"Meir"
+	"Menashe"
+	"Menechem"
+	"Mesharsheya"
+	"Meshulam"
+	"Mevasser"
+	"Mishael"
+	"Mordechai"
+	"Moshe"
+	"Nachman"
+	"Nachshon"
+	"Nasan"
+	"Natan"
+	"Natroi"
+	"Natronai"
+	"Nechemiah"
+	"Nehilai"
+	"Nesanel"
+	"Nissim"
+	"Paltoi"
+	"Peter"
+	"Pirkoi"
+	"Rava"
+	"Ravai"
+	"Ravi"
+	"Ravya"
+	"Reuven"
+	"Rivai"
+	"Saadiah"
+	"Sechok"
+	"Shabsai"
+	"Shalom"
+	"Shanoi"
+	"Shemaryah"
+	"Sherira"
+	"Sheshna"
+	"Shila"
+	"Shimon"
+	"Shinoi"
+	"Shlomo"
+	"Shmuel"
+	"Sorgo"
+	"Sulam"
+	"Tachlifa"
+	"Tamar"
+	"Tzadok"
+	"Tzemach"
+	"Uri"
+	"Yaakov"
+	"Yachya"
+	"Yechiel"
+	"Yehoshua"
+	"Yehudah"
+	"Yehudai"
+	"Yeshayah"
+	"Yisrael"
+	"Yitzchak"
+	"Yoel"
+	"Yosef"
+	"Yoshiah"
+	"Yosi"
+	"Yuda"
+	"Zakkai"
+	"Zelekman"
+	"Zuiskind"
+}
+ship_names = {
+	"Achai"
+	"Achunai"
+	"Acre"
+	"Aharon"
+	"Alechsandri"
+	"Ammi"
+	"Ashdod"
+	"Beit"
+	"Bēt Laḥm"
+	"Chaim"
+	"Chananel"
+	"Chaninai"
+	"Chanoch"
+	"Chayim"
+	"Chelbo"
+	"Chisdai"
+	"Chiyya"
+	"Chizkiyah"
+	"Chofni"
+	"Chushiel"
+	"Daniel"
+	"David"
+	"Dimi"
+	"Dodai"
+	"Dudai"
+	"Efrayim"
+	"Eina"
+	"Elazar"
+	"Elchanan"
+	"Haifa"
+	"Jerusalem"
+	"Nazareth"
+	"Rava"
+	"Ravai"
+	"Ravi"
+	"Ravya"
+	"Reuven"
+	"Rivai"
+	"Saadiah"
+	"Sechok"
+	"Shabsai"
+	"Shalom"
+	"Shanoi"
+	"Shemaryah"
+	"Shemesh"
+	"Sherira"
+	"Sheshna"
+	"Shila"
+	"Shimon"
+	"Shinoi"
+	"Shlomo"
+	"Shmuel"
+	"Sorgo"
+	"Sulam"
+	"Tira"
+	"Yerushaláyim"
+	"Yisrael"
+	"Yitzchak"
+	"Yoel"
+	"Yosef"
+	"Yoshiah"
+	"Yosi"
+	"Yuda"
+	"Zakkai"
+	"Zelekman"
+	"Zuiskind"
+}
+army_names = {
+	"Army of $PROVINCE$"
+}

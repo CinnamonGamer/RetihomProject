@@ -1,0 +1,35 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = anglo_saxon
+capital = 4361
+1392.1.7= {
+	monarch = {
+		name = "(Regency Council)"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 1.1.1
+		regent = yes
+		religion = catholic
+		culture = anglo_saxon
+	}
+	heir = {
+		name = "Beorhthelm"
+		dynasty = "of Hwicce"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 1377.4.17
+		death_date = 1442.4.17
+		claim = 89
+		religion = catholic
+		culture = anglo_saxon
+	}
+}
+1392.1.7= {
+	add_prestige = 25
+	add_treasury = 35
+}

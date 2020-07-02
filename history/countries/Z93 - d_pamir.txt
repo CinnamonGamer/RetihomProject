@@ -1,0 +1,35 @@
+government = monarchy
+add_government_reform = indian_sultanate_reform
+government_rank = 1
+technology_group = ottoman
+religion = zikri
+primary_culture = turkish
+capital = 2073
+1392.1.7= {
+	monarch = {
+		name = "(Regency Council)"
+		adm = 4
+		dip = 4
+		mil = 3
+		birth_date = 1.1.1
+		regent = yes
+		religion = zikri
+		culture = turkish
+	}
+	heir = {
+		name = "Sehinsah"
+		dynasty = "Purgyal"
+		adm = 6
+		dip = 6
+		mil = 5
+		birth_date = 1377.6.12
+		death_date = 1442.6.12
+		claim = 89
+		religion = zikri
+		culture = turkish
+	}
+}
+1392.1.7= {
+	add_prestige = 52
+	add_treasury = 83
+}

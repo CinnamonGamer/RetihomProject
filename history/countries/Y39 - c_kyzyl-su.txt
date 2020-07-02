@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = castillian
+capital = 2349
+fixed_capital = 2349
+1392.1.7= {
+	monarch = {
+		name = "Gómez"
+		dynasty = "de Valladolid"
+		adm = 3
+		dip = 2
+		mil = 4
+		birth_date = 1362.6.4
+		religion = catholic
+		culture = castillian
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = tolerant_personality
+	queen = {
+		name = "Mayor"
+		dynasty = "Vimaranes"
+		adm = 2
+		dip = 3
+		mil = 3
+		country_of_origin = Y39
+		birth_date = 1355.6.8
+		death_date = 1415.6.8
+		female = yes
+		religion = catholic
+		culture = galician
+	}
+	add_queen_personality = embezzler_personality
+	add_queen_personality = tolerant_personality
+	heir = {
+		name = "Gómez"
+		monarch_name = "Gómez"
+		dynasty = "de Valladolid"
+		adm = 0
+		dip = 1
+		mil = 0
+		birth_date = 1389.4.20
+		death_date = 1454.4.20
+		claim = 89
+		religion = catholic
+		culture = galician
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1392.1.7= {
+	add_prestige = 29
+	add_treasury = 15
+}

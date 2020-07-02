@@ -1,0 +1,99 @@
+graphical_culture = muslimgfx
+color = { 255 245 220 }
+revolutionary_colors = { 0 8 0 }
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	quantity_ideas
+	offensive_ideas
+	expansion_ideas
+	economic_ideas
+	defensive_ideas
+	administrative_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	chinese_dragoon
+	chinese_footsoldier
+	chinese_longspear
+	chinese_steppe
+	eastern_bow
+	han_banner
+	manchu_banner
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+	reformed_manchu_rifle
+}
+monarch_names = {
+	"Anar #1" = 10
+	"Barghut #0" = 0
+	"Bars #1" = 10
+	"Begluk #1" = 10
+	"Bugunutei #1" = 10
+	"Bujeg #0" = 0
+	"Bumphulwa #0" = -1
+	"Buquq #0" = 0
+	"Burandokht #0" = -1
+	"Chormakhan #0" = 0
+	"Chotan #0" = -1
+	"Dagun #0" = 0
+	"Ershen #0" = -1
+	"Ilçur #0" = 0
+	"Khadagan #0" = -1
+	"Khagatai #0" = 0
+	"Kiräsiz #0" = 0
+	"Känçiq #2" = 10
+	"Moyançur #0" = 0
+	"Ozmush #1" = 10
+	"Salïndï #1" = 10
+	"Teçush #0" = -1
+	"Töles #2" = 10
+	"Törtogul #1" = 10
+	"Yamtar #1" = 10
+	"Yollughtegin #0" = 0
+	"Çeçek #0" = -1
+	"Ögüne #1" = 10
+	"Özyegen #1" = 10
+}
+leader_names = {
+	"Altan Unegen"
+	"Altanqai"
+	"Arigh Erdene"
+	"Bayan Vachir"
+	"Bayardai"
+	"Boke Qorchi"
+	"Boketei"
+	"Delger Dash"
+	"Qadancher"
+	"Suren Chinua"
+	"Tegusteni"
+	"Tolui-gene"
+	"Yekedai"
+}
+ship_names = {
+	"Alghu Khan"
+	"Amir Husayn"
+	"Amo Darya"
+	"Baraq Khan"
+	"Chagatai"
+	"Duwa"
+	"Genghis Khan"
+	"Güyük"
+	"Irtysh"
+	"Jagatai Khan"
+	"Mubarak Shah"
+	"Möngke Khan"
+	"Orghina"
+	"Qazan Khan"
+	"Qipchaq"
+	"Qubilai Khan"
+	"Samarqand"
+	"Syr Darya"
+	"Timur i Leng"
+	"Tughlugh Timur"
+	"Yesünto'a"
+	"Ögedai Khan"
+}

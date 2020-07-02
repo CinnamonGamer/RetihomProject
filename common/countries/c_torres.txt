@@ -1,0 +1,8 @@
+graphical_culture = westerngfx
+color = { 150 175 200 }
+monarch_names = {
+	"Bustianu #0" = 0
+	"Celestìnu #0" = 0
+	"Orsocorre #0" = 0
+	"Thomas #0" = 0
+}

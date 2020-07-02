@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = sub_saharan
+religion = west_african_pagan_reformed
+primary_culture = mali
+capital = 2277
+fixed_capital = 2277
+1392.1.7= {
+	monarch = {
+		name = "Takoi"
+		dynasty = "Nintasanayid"
+		adm = 3
+		dip = 2
+		mil = 3
+		birth_date = 1334.9.10
+		religion = west_african_pagan_reformed
+		culture = mali
+	}
+	add_ruler_personality = just_personality
+	add_ruler_personality = strict_personality
+	queen = {
+		name = "Fadima"
+		dynasty = "Bakrid"
+		adm = 3
+		dip = 2
+		mil = 2
+		country_of_origin = Y18
+		birth_date = 1368.5.7
+		death_date = 1428.5.7
+		female = yes
+		religion = west_african_pagan_reformed
+		culture = hausa
+	}
+	add_queen_personality = obsessive_perfectionist_personality
+	add_queen_personality = tolerant_personality
+	heir = {
+		name = "Nafissa"
+		monarch_name = "Nafissa"
+		dynasty = "Nintasanayid"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 1377.3.6
+		death_date = 1442.3.6
+		female = yes
+		claim = 89
+		religion = west_african_pagan_reformed
+		culture = bambara
+	}
+	add_heir_personality = fierce_negotiator_personality
+	add_heir_personality = well_connected_personality
+}
+1392.1.7= {
+	add_prestige = 50
+	add_treasury = 50
+}

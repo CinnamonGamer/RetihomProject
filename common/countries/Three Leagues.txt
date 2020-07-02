@@ -1,0 +1,104 @@
+graphical_culture = westerngfx
+color = { 153 240 182 }
+revolutionary_colors = { 9 5 8 }
+historical_idea_groups = {
+	administrative_ideas
+	plutocracy_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	expansion_ideas
+	quality_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	halberd_infantry
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Arnulf #1" = 10
+	"Augustin #1" = 10
+	"Bo #0" = 0
+	"Burchard #1" = 10
+	"Christopher #1" = 10
+	"Dieter #0" = 0
+	"Erik #1" = 10
+	"Gotfred #0" = 0
+	"Gottschalk #1" = 10
+	"Gunnar #1" = 10
+	"Hildeburg #0" = -1
+	"Holger #0" = 0
+	"Humbert #0" = 0
+	"Ilsa #0" = -1
+	"Irmeltrud #0" = -1
+	"Jens #1" = 10
+	"Landolf #2" = 10
+	"Lise #1" = -1
+	"Liutbrand #1" = 10
+	"Rudolf #1" = 10
+	"Rune #0" = 0
+	"Sanna #1" = -1
+	"Smiechna #0" = -1
+	"Valentin #1" = 10
+}
+leader_names = {
+	"Aebi"
+	"Amman"
+	"Bischofberger"
+	"Blank"
+	"Blies"
+	"Brugger"
+	"Combe"
+	"Eugster"
+	"Frei"
+	"Frisch"
+	"Gasenzer"
+	"Grüneisen"
+	"Heberlin"
+	"Helberingen"
+	"Hertzler"
+	"Hiltbrand"
+	"Honegger"
+	"Luz"
+	"Miller"
+	"Munzinger"
+	"Oberholzer"
+	"Schwendimann"
+	"Spörri"
+	"Vogt"
+	"Wächter"
+	"Zumbach"
+	"von Baltharsar"
+	"von Hasseln"
+}
+ship_names = {
+	"Berne"
+	"Dufour"
+	"Glarus"
+	"Inn"
+	"Lucerne"
+	"Rhein"
+	"Rhöne"
+	"Schwyz"
+	"Ticino"
+	"Unterwalden"
+	"Uri"
+	"Wilhelm Tell"
+	"Zug"
+	"Zürich"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+}
+preferred_religion = reformed

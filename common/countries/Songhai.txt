@@ -1,0 +1,96 @@
+graphical_culture = africangfx
+color = { 62 175 151 }
+revolutionary_colors = { 0 1 0 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	quality_ideas
+	economic_ideas
+}
+historical_units = {
+	african_dragoon
+	african_hill_warfare
+	african_hussar
+	african_mandelaku
+	african_mossi_horsemen
+	african_spearmen
+	african_tuareg_cavalry
+	african_western_franchise_warfare
+	niger_kongolese_gunpowder_warfare
+	songhai_tribal_warfare
+	westernized_niger_kongolese
+}
+monarch_names = {
+	"Aichata #1" = -1
+	"Aissata #0" = -1
+	"Akoi #2" = 10
+	"Alayaman #1" = 10
+	"Ali-Fay #1" = 10
+	"Bassarou #1" = 10
+	"Bassi #0" = 0
+	"Biyu #1" = 10
+	"Biyu Ki Kima #1" = 10
+	"Biyu Kumoy #1" = 10
+	"Djenly #1" = -1
+	"Gane #1" = 10
+	"Han Kuz Wanku Dam #1" = 10
+	"Harun #1" = 10
+	"Kalabi #1" = 10
+	"Karima #0" = -1
+	"Kinkin #1" = 10
+	"Kukuray #1" = 10
+	"Kusoy #1" = 10
+	"Kusoy Muslim Dam #1" = 10
+	"Kü #1" = 10
+	"Lahiltoul #1" = 10
+	"Lorane #1" = -1
+	"Manding-Bory #1" = 10
+	"Maÿroumfa #1" = 10
+	"Nintasanay #1" = 10
+	"Nuh #0" = 0
+	"Ouali #3" = 10
+	"Samsou-Béri #1" = 10
+	"Takoi #1" = 10
+	"Tekhaye #1" = -1
+	"Teko #0" = -1
+	"Yama #1" = 10
+	"Yama Danka Kiba'u #1" = 10
+	"Yama Karaway #1" = 10
+	"Yasiboy #1" = 10
+	"Yendabri #1" = 10
+	"Yuma #0" = 0
+	"Za Kuroy #1" = 10
+	"Zakoi #1" = 10
+	"Zeïnab #1" = -1
+}
+leader_names = {
+	"Amadou"
+	"Compaore"
+	"Diallo"
+	"Diarra"
+	"Keita"
+	"Lamizana"
+	"Modibo"
+	"Ouedraogo"
+	"Toure"
+	"Zerbo"
+}
+ship_names = {
+	"Akoi"
+	"Alayaman"
+	"Ali-Fay"
+	"Biyo-Kumoy"
+	"Biyu"
+	"Kinkin"
+	"Ku"
+	"Kukuray"
+	"Nintasanay"
+	"Takoi"
+	"Yama-Karaway"
+	"Za Kuroy"
+	"Zakoi"
+}

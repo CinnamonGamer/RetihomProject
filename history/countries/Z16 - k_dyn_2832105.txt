@@ -1,0 +1,55 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+technology_group = muslim
+religion = catholic
+primary_culture = cuman
+capital = 1972
+1392.1.7= {
+	monarch = {
+		name = "Aepak"
+		dynasty = "Itlarid"
+		adm = 2
+		dip = 5
+		mil = 2
+		birth_date = 1345.1.7
+		religion = catholic
+		culture = cuman
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = silver_tongue_personality
+	queen = {
+		name = "Tekçe"
+		dynasty = "Etrekid"
+		adm = 3
+		dip = 3
+		mil = 3
+		country_of_origin = Z16
+		birth_date = 1359.9.11
+		death_date = 1419.9.11
+		female = yes
+		religion = catholic
+		culture = cuman
+	}
+	add_queen_personality = charismatic_negotiator_personality
+	add_queen_personality = well_connected_personality
+	heir = {
+		name = "Bönek"
+		monarch_name = "Bönek"
+		dynasty = "Itlarid"
+		adm = 1
+		dip = 2
+		mil = 1
+		birth_date = 1381.5.6
+		death_date = 1446.5.6
+		claim = 89
+		religion = catholic
+		culture = cuman
+	}
+	add_heir_personality = craven_personality
+	add_heir_personality = zealot_personality
+}
+1392.1.7= {
+	add_prestige = 42
+	add_treasury = 37
+}

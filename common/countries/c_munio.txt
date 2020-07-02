@@ -1,0 +1,15 @@
+graphical_culture = africangfx
+color = { 118 135 197 }
+monarch_names = {
+	"Adja #0" = -1
+	"Aissata #0" = -1
+	"Amita #0" = -1
+	"Djeneba #0" = -1
+	"Kanafa #0" = 0
+	"M'Bali #0" = 0
+	"Musa #0" = 0
+	"Nafissa #0" = -1
+	"Sidibé #0" = -1
+	"Soundiata #0" = 0
+	"Yama #0" = 0
+}

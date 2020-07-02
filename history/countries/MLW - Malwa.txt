@@ -1,0 +1,54 @@
+government = monarchy
+add_government_reform = rajput_kingdom
+government_rank = 2
+technology_group = indian
+religion = buddhism
+primary_culture = malvi
+capital = 526
+1392.1.7= {
+	monarch = {
+		name = "Arnoraja III"
+		dynasty = "Panwar"
+		adm = 1
+		dip = 3
+		mil = 1
+		birth_date = 1350.2.10
+		religion = buddhism
+		culture = malvi
+	}
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Maharani"
+		adm = 1
+		dip = 4
+		mil = 2
+		country_of_origin = MLW
+		birth_date = 1358.1.30
+		death_date = 1418.1.30
+		female = yes
+		religion = buddhism
+		culture = malvi
+	}
+	add_queen_personality = tactical_genius_personality
+	add_queen_personality = well_connected_personality
+	heir = {
+		name = "Arnoraja"
+		monarch_name = "Arnoraja IV"
+		dynasty = "Panwar"
+		adm = 4
+		dip = 6
+		mil = 6
+		birth_date = 1372.10.4
+		death_date = 1437.10.4
+		claim = 89
+		religion = buddhism
+		culture = malvi
+	}
+	add_heir_personality = obsessive_perfectionist_personality
+	add_heir_personality = tolerant_personality
+}
+1392.1.7= {
+	add_prestige = 75
+	add_treasury = 62
+}

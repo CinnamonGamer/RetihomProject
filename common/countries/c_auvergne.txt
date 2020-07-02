@@ -1,0 +1,22 @@
+graphical_culture = westerngfx
+color = { 26 173 228 }
+monarch_names = {
+	"Ainès #0" = -1
+	"Amédée #0" = 0
+	"Azelma #0" = -1
+	"Baudoïn #0" = 0
+	"Bourgogne #0" = -1
+	"Bérard #0" = 0
+	"Dat #0" = 0
+	"Gisela #0" = -1
+	"Hysing #0" = 0
+	"Ildégarde #0" = -1
+	"Ives #0" = 0
+	"Margot #0" = -1
+	"Mariana #0" = -1
+	"Nicholaus #0" = 0
+	"Ogier #0" = 0
+	"Petronilha #0" = -1
+	"Raimond #0" = 0
+	"Sieghard #0" = 0
+}

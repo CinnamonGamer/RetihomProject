@@ -1,0 +1,25 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = nomad_group
+religion = vajrayana
+primary_culture = uyghur
+capital = 1970
+1392.1.7= {
+	monarch = {
+		name = "Tunyuquq"
+		dynasty = "Wanyan"
+		adm = 2
+		dip = 3
+		mil = 1
+		birth_date = 1364.11.4
+		religion = vajrayana
+		culture = uyghur
+	}
+	add_ruler_personality = expansionist_personality
+	add_ruler_personality = righteous_personality
+}
+1392.1.7= {
+	add_prestige = 52
+	add_treasury = 50
+}

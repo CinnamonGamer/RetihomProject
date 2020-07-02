@@ -1,0 +1,11 @@
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+technology_group = ottoman
+religion = sunni
+primary_culture = turkish
+capital = 451
+1392.1.7= {
+	add_prestige = 79
+	add_treasury = 64
+}

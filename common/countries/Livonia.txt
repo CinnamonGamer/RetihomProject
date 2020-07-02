@@ -1,0 +1,83 @@
+graphical_culture = easterngfx
+color = { 78 65 15 }
+revolutionary_colors = { 4 0 4 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+	spy_ideas
+	religious_ideas
+}
+historical_units = {
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	prussian_frederickian
+	prussian_uhlan
+	swedish_arme_blanche
+	swedish_caroline
+	swedish_gallop
+	swedish_gustavian
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Baise #1" = 10
+	"Balba #0" = -1
+	"Bikshe #1" = 10
+	"Butovit #1" = 10
+	"Darbeslave #1" = 10
+	"Dobre #1" = 10
+	"Gibedats #2" = 10
+	"Giedre #0" = -1
+	"Karijotas #0" = 0
+	"Karnak #0" = 0
+	"Kurlemuse #2" = 10
+	"Kurlemuše #1" = 10
+	"Manvydas #2" = 10
+	"Nameisis #1" = 10
+	"Rasa #0" = -1
+	"Steikint #1" = 10
+	"Sviendorog #1" = 10
+	"Vaishvilkas #0" = 0
+	"Visheiv #1" = 10
+	"Vishikut #1" = 10
+	"Vykantas #1" = 10
+	"Ziedas #0" = -1
+}
+leader_names = {
+	"Aminoff"
+	"Armfelt"
+	"Bielke"
+	"Bonde"
+	"Carpelan"
+	"Fleming"
+	"Furuhjelm"
+	"Horn"
+	"Mannerheim"
+	"Paijkull"
+	"Rehbinder"
+	"Schulman"
+	"Soop"
+	"Tott"
+	"Wrede"
+}
+ship_names = {
+	"Dobeln"
+	"Dorpat"
+	"Dünaburg"
+	"Fellin"
+	"Karkus"
+	"Kokenhusen"
+	"Riga"
+	"Segewold"
+	"Wenden"
+	"Wolmar"
+}

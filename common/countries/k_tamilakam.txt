@@ -1,0 +1,27 @@
+graphical_culture = indiangfx
+color = { 200 25 65 }
+monarch_names = {
+	"Ammakkanâr #0" = -1
+	"Aparâcitavarman #3" = 10
+	"Ariñcaya #1" = 10
+	"Atirâjêntira #1" = 10
+	"Atitta #3" = 10
+	"Cuntara #1" = 10
+	"Dunli #0" = 0
+	"Irattapadikonda #1" = 10
+	"Irâcarâca #1" = 10
+	"Irâcâtirâca #1" = 10
+	"Irâcêntira #2" = 10
+	"Kadarangkonda #0" = 0
+	"Kantarâtitta #1" = 10
+	"Kirâmarâcapattan #1" = 10
+	"Mânaticcuran #1" = 10
+	"Parântaka #1" = 10
+	"Periyapillai #0" = 0
+	"Pillayâlvi #0" = -1
+	"Ranatîran #0" = 0
+	"Tripuvanacakkaravattikal #3" = 10
+	"Utaiya #1" = 10
+	"Uttama #1" = 10
+	"Vîrarâcêntira #1" = 10
+}

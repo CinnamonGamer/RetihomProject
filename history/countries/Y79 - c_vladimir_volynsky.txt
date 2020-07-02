@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = eastern
+religion = orthodox
+primary_culture = kishinyov
+capital = 1940
+fixed_capital = 1940
+1392.1.7= {
+	monarch = {
+		name = "Yevpraxia"
+		dynasty = "Cataro"
+		adm = 1
+		dip = 4
+		mil = 1
+		birth_date = 1370.2.27
+		female = yes
+		religion = orthodox
+		culture = kishinyov
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = secretive_personality
+	queen = {
+		name = "Igor"
+		dynasty = "Wass de Czege"
+		adm = 2
+		dip = 5
+		mil = 3
+		country_of_origin = Y79
+		birth_date = 1370.4.10
+		death_date = 1430.4.10
+		religion = catholic
+		culture = croatian
+	}
+	add_queen_personality = lawgiver_personality
+	add_queen_personality = midas_touched_personality
+	heir = {
+		name = "Vladimir"
+		monarch_name = "Vladimir"
+		dynasty = "Cataro"
+		adm = 1
+		dip = 1
+		mil = 1
+		birth_date = 1388.8.10
+		death_date = 1453.8.10
+		claim = 89
+		religion = orthodox
+		culture = byelorussian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1392.1.7= {
+	add_prestige = 22
+	add_treasury = 64
+}

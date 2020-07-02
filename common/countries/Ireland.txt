@@ -1,0 +1,140 @@
+graphical_culture = westerngfx
+color = { 112 150 105 }
+revolutionary_colors = { 10 0 6 }
+historical_idea_groups = {
+	maritime_ideas
+	aristocracy_ideas
+	exploration_ideas
+	trade_ideas
+	economic_ideas
+	innovativeness_ideas
+	spy_ideas
+	administrative_ideas
+}
+historical_units = {
+	anglofrench_line
+	british_hussar
+	british_redcoat
+	british_square
+	gaelic_free_shooter
+	gaelic_galloglaigh
+	gaelic_mercenary
+	irish_charge
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	western_medieval_infantry
+	western_medieval_knights
+}
+monarch_names = {
+	"Airmedach #1" = 10
+	"Beornræd #3" = 10
+	"Bruatur #1" = 10
+	"Carlus #1" = 10
+	"Cathnio #1" = 10
+	"Cristina #1" = -1
+	"Deirdre #1" = -1
+	"Dermid #1" = 10
+	"Diarmait #0" = 0
+	"Domnall #4" = 10
+	"Duff #1" = 10
+	"Duibne #0" = 0
+	"Dunáed #1" = 10
+	"Echmarcach #1" = 10
+	"Fearghus #0" = 0
+	"Flann #1" = 10
+	"Forbassach #1" = 10
+	"Fothud #0" = 0
+	"Gilbert #1" = 10
+	"Isla #0" = -1
+	"Lethlobur #0" = 0
+	"Murdoch #1" = 10
+	"Máel-Brígte #0" = 0
+	"Nannid #1" = 10
+	"Nuala #0" = -1
+	"Scáthach #0" = -1
+	"Sophia #0" = -1
+	"Síthmaith #0" = -1
+	"Thibault #0" = 0
+	"Thoræd #1" = 10
+	"Áed #1" = 10
+	"Áengus #1" = 10
+	"Éicnech #1" = 10
+}
+leader_names = {
+	"Alexander"
+	"Annesley"
+	"Balfour"
+	"Barry"
+	"Blayney"
+	"Bourke"
+	"Boyle"
+	"Browne"
+	"Burke"
+	"Butler"
+	"Caulfeild"
+	"Chichester"
+	"Cholmondeley"
+	"Coote"
+	"Digby"
+	"Dillon"
+	"Dongan"
+	"Duff"
+	"Feilding"
+	"FitzGerald"
+	"FitzMaurice"
+	"FitzOliver"
+	"FitzPatrick"
+	"FitzWilliam"
+	"Fortescue"
+	"Gardiner"
+	"Grimston"
+	"Guelph"
+	"Hamilton"
+	"Hare"
+	"Hervey"
+	"Kavanagh"
+	"Keane"
+	"Keating"
+	"Lambart"
+	"Macartney"
+	"Martyn"
+	"McCarthy"
+	"Meade"
+	"Moore"
+	"Nugent"
+	"O'Brien"
+	"O'Carroll"
+	"O'Connell"
+	"O'Donnell"
+	"O'Hara"
+	"O'Malley"
+	"O'Neill"
+	"Pakenham"
+	"Parsons"
+	"Plunkett"
+	"Preston"
+	"Ridgeway"
+	"Sterne"
+	"Taaffe"
+	"Touchet"
+	"Vaughan"
+	"Villiers"
+	"Wentworth"
+	"Wesley"
+	"de Burgh"
+}
+ship_names = {
+	"Aoife"
+	"Ciara"
+	"Connacht"
+	"Eithne"
+	"Emer"
+	"Leinster"
+	"Munster"
+	"Niamh"
+	"Orla"
+	"Roisin"
+	"Ulster"
+}

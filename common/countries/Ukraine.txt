@@ -1,0 +1,178 @@
+graphical_culture = easterngfx
+color = { 124 183 151 }
+revolutionary_colors = { 5 8 5 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	quantity_ideas
+	religious_ideas
+}
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	eastern_carabinier
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	muscovite_caracolle
+	muscovite_cossack
+	muscovite_musketeer
+	muscovite_soldaty
+	russian_cuirassier
+	russian_green_coat
+	russian_lancer
+	russian_mass
+	russian_petrine
+	slavic_stradioti
+}
+monarch_names = {
+	"Aldona #0" = -1
+	"Anele #0" = -1
+	"Antanas #0" = 0
+	"Aras #0" = 0
+	"Ausra #0" = -1
+	"Birute #0" = -1
+	"Budrys #0" = 0
+	"Colban #0" = 0
+	"Dannila #0" = -1
+	"Danute #0" = -1
+	"Daugvilas #0" = 0
+	"Daumantas #0" = 0
+	"Elisabeth #0" = -1
+	"Friedrica #0" = -1
+	"Gaudimante #0" = -1
+	"Gelennis #0" = -1
+	"Gerkus #0" = -1
+	"Giazis #1" = 10
+	"Gintare #0" = -1
+	"Girdenis #1" = 10
+	"Helgi #1" = 10
+	"Hemma #0" = -1
+	"Ilme #0" = -1
+	"Iziaslav #1" = 10
+	"Jevna #0" = -1
+	"Jovirdas #0" = 0
+	"Kenna #0" = -1
+	"Kesgaila #0" = 0
+	"Konstanze #0" = -1
+	"Korigaila #0" = 0
+	"Kunigunde #0" = -1
+	"Lasukas #0" = 0
+	"Mantvydas #0" = 0
+	"Merkelis #1" = 10
+	"Mikova #0" = -1
+	"Milobrat #0" = 0
+	"Minigaila #0" = 0
+	"Osterhild #0" = -1
+	"Povilas #0" = 0
+	"Pukuveras #0" = 0
+	"Ragnar #0" = 0
+	"Richenza #0" = -1
+	"Rimantas #0" = 0
+	"Rimgaila #0" = 0
+	"Rodislav #0" = 0
+	"Sarunas #0" = 0
+	"Saule #0" = -1
+	"Songaila #0" = 0
+	"Svajone #0" = -1
+	"Sviatopolk #1" = 10
+	"Sviatoslav #2" = 10
+	"Sybille #0" = -1
+	"Vida #0" = -1
+	"Vingoldas #1" = 10
+	"Virmantas #0" = 0
+	"Vladimir #1" = 10
+	"Yaropolk #1" = 10
+	"Yaroslav #1" = 10
+	"Yngvar #1" = 10
+	"Zygimantas #0" = 0
+}
+leader_names = {
+	"Antonovych"
+	"Avramenko"
+	"Babko"
+	"Bogolyubov"
+	"Bunyakovskii"
+	"Chebotaryov"
+	"Cholesky"
+	"Chuperchuk"
+	"Davydova"
+	"Dmytrenko"
+	"Doroshenko"
+	"Drahomanov"
+	"Filitov"
+	"Fomenko"
+	"Hlushkov"
+	"Hnedenko"
+	"Horbachov"
+	"Kondratyuk"
+	"Korolyuk"
+	"Kravchuk"
+	"Krivokhyzha"
+	"Lysenko"
+	"Maksymovych"
+	"Mytropolsky"
+	"Ohloblyn"
+	"Oleinik"
+	"Ostrogradsky"
+	"Petryshyn"
+	"Pogorelov"
+	"Poretsky"
+	"Potapow"
+	"Pryma"
+	"Samoilenko"
+	"Shafarevich"
+	"Sharkovsky"
+	"Shatunovsky"
+	"Shchukarev"
+	"Shekera"
+	"Shtokalo"
+	"Skorokhod"
+	"Sleszynski"
+	"Stojko"
+	"Sydorenko"
+	"Trfimenko"
+	"Tyutyunnikov"
+	"Urysohn"
+	"Vantukh"
+	"Vashchenko"
+	"Vasylenko"
+	"Verkhovynets"
+	"Voronoy"
+	"Yavornytsky"
+}
+ship_names = {
+	"Alchevsk"
+	"Balta"
+	"Bug"
+	"Ghernigiv"
+	"Hmelnieckiy"
+	"Izyaslav"
+	"Kahovka"
+	"Kherson"
+	"Khersones"
+	"Kiev"
+	"Kolomiya"
+	"Korets"
+	"Kovel"
+	"Kremenchuk"
+	"Kremenets"
+	"Kriviy Rig"
+	"Lutsk"
+	"Mariupol"
+	"Melitopol"
+	"Noviy"
+	"Pryluky"
+	"Shostka"
+	"Slavutych"
+	"Sudak"
+	"Svitlovods'k"
+	"Tovaristsch"
+	"Tsyurupynsk"
+	"Uman"
+	"Vinnitsya"
+}

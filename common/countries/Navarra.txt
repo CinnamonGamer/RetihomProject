@@ -1,0 +1,165 @@
+graphical_culture = westerngfx
+color = { 252 233 58 }
+revolutionary_colors = { 5 8 5 }
+historical_idea_groups = {
+	maritime_ideas
+	religious_ideas
+	defensive_ideas
+	economic_ideas
+	innovativeness_ideas
+	spy_ideas
+	offensive_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	french_caracolle
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	spanish_tercio
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Aiza #0" = -1
+	"Aldrich #0" = 0
+	"Alf #0" = 0
+	"Ancel #0" = 0
+	"Anderquina #0" = -1
+	"Antso #1" = 10
+	"Arnoul #0" = 0
+	"Asalup #0" = 0
+	"Aymar #2" = 10
+	"Baitzas #0" = 0
+	"Berardo #0" = 0
+	"Berenguela #1" = -1
+	"Blanca #0" = -1
+	"Bérenger #0" = 0
+	"Centolh #0" = 0
+	"Constanza #0" = -1
+	"Donual #0" = 0
+	"Enguerrand #1" = 10
+	"Etrek #1" = 10
+	"Fadrique #0" = 0
+	"Fernando #0" = 0
+	"Fronilda #0" = -1
+	"Gil #0" = 0
+	"Gontroda #0" = -1
+	"Guillén #0" = 0
+	"Gunnar #0" = 0
+	"Guntram #0" = 0
+	"Hermígio #0" = 0
+	"Jean #0" = 0
+	"Jimena #0" = -1
+	"Juan #0" = 0
+	"Kotyan #0" = 0
+	"Kutan #1" = 10
+	"Leofweald #1" = 10
+	"Leonor #0" = -1
+	"Martín #2" = 10
+	"Mayor #0" = -1
+	"Putrael #0" = 0
+	"Ragnvald #0" = 0
+	"Ramiro #0" = 0
+	"Raoul #0" = 0
+	"Roger #1" = 10
+	"Rutger #0" = 0
+	"Toda #0" = -1
+	"Togli #0" = 0
+	"Tord #0" = 0
+	"Uzluk #0" = 0
+	"Wilhelm #0" = 0
+	"Ximeno #1" = 10
+	"Ælfweard #0" = 0
+}
+leader_names = {
+	"Bergera"
+	"Elizalde"
+	"Goyeneche"
+	"Jimeno"
+	"Jiménez de Rada"
+	"Navarro"
+	"Palafox"
+	"Pérez de Zabalza"
+	"de Aguirre"
+	"de Albret"
+	"de Antillón"
+	"de Aranda"
+	"de Armendariz"
+	"de Azagra"
+	"de Azpilcueta"
+	"de Beaumont"
+	"de Beortegui"
+	"de Borbón"
+	"de Carranza"
+	"de Garay"
+	"de Goñi"
+	"de Heredia"
+	"de Hijar"
+	"de Jaso"
+	"de Landívar"
+	"de Salazar"
+	"de Uribe"
+	"de Ursúa"
+	"de Yanguas"
+	"de Zárate"
+}
+ship_names = {
+	"Atlántida"
+	"Conde de Evreux"
+	"Conde de Foix"
+	"Conde de Guenduláin"
+	"Conde de Lerín"
+	"Don Jimeno"
+	"Duque de Armagnac"
+	"Duque de Champaña"
+	"El Agramontés"
+	"El Beaomontés"
+	"El Bearnés"
+	"El Cruzado Navarro"
+	"El Montañés"
+	"El Navarro"
+	"El Salvador"
+	"El Trobador"
+	"El Viñador"
+	"Emperador Hispánico"
+	"Europa"
+	"Mar de Navarra"
+	"Nuestra Sra de Leyre"
+	"Príncipe de Viana"
+	"Reina Juana"
+	"Rey Enrique"
+	"Rey García"
+	"Rey Sancho"
+	"Reyno de Navarra"
+	"Reyno de Pamplona"
+	"San Agustín"
+	"San Andrés"
+	"San Antonio"
+	"San Carlos"
+	"San Enrique"
+	"San Esteban"
+	"San Fermín"
+	"San Francisco"
+	"San Francisco Xabier"
+	"San Gregorio"
+	"San Juan"
+	"San León"
+	"San Miguel Arcángel"
+	"San Raimundo"
+	"San Virila"
+	"Santa Ana"
+	"Santa Catalina"
+	"Santa Juana"
+	"Santa Leonor"
+	"Santísima Trinidad"
+	"Señor de Tudela"
+	"Vasconia"
+}

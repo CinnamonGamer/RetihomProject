@@ -1,0 +1,12 @@
+graphical_culture = africangfx
+color = { 10 205 162 }
+monarch_names = {
+	"Bogirg #0" = 0
+	"Bolad #0" = 0
+	"Iêsousyko #0" = -1
+	"Jamne #0" = -1
+	"Kalge #0" = 0
+	"Kamalgi #0" = 0
+	"Mariam #0" = -1
+	"Omar #0" = 0
+}

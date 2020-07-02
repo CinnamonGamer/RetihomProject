@@ -1,0 +1,26 @@
+graphical_culture = easterngfx
+color = { 124 232 67 }
+monarch_names = {
+	"Aram #2" = 10
+	"Cemšîd #1" = 10
+	"Chanan #0" = 0
+	"Chayim #0" = 0
+	"Guta #0" = -1
+	"Kiyomi #0" = 0
+	"Levi #0" = 0
+	"Mamlan #2" = 10
+	"Matrona #0" = -1
+	"Mistefa #1" = 10
+	"Nachshon #0" = 0
+	"Pultzelina #0" = -1
+	"Scolaster #0" = -1
+	"Shabsai #0" = 0
+	"Tachlifa #0" = 0
+	"Tolun #1" = 10
+	"Vahusdan #1" = 10
+	"Xarmandar #1" = 10
+	"Yehudai #3" = 10
+	"Yuanzhong #0" = 0
+	"Zuhayra #0" = -1
+	"Šîrkûh #1" = 10
+}

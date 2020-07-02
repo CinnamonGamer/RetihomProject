@@ -1,0 +1,36 @@
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+technology_group = eastern
+religion = finnish_pagan
+primary_culture = komi
+capital = 1963
+1392.1.7= {
+	monarch = {
+		name = "(Regency Council)"
+		adm = 1
+		dip = 1
+		mil = 2
+		birth_date = 1.1.1
+		regent = yes
+		religion = finnish_pagan
+		culture = komi
+	}
+	heir = {
+		name = "Styaka"
+		dynasty = "Severnayid"
+		adm = 3
+		dip = 3
+		mil = 4
+		birth_date = 1383.7.10
+		death_date = 1448.7.10
+		female = yes
+		claim = 89
+		religion = finnish_pagan
+		culture = komi
+	}
+}
+1392.1.7= {
+	add_prestige = -17
+	add_treasury = 52
+}

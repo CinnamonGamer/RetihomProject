@@ -1,0 +1,40 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = castillian
+capital = 2212
+1392.1.7= {
+	monarch = {
+		name = "Manrique"
+		dynasty = "de Teren-Uzyak"
+		adm = 1
+		dip = 4
+		mil = 2
+		birth_date = 1366.3.8
+		religion = catholic
+		culture = castillian
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = tactical_genius_personality
+	queen = {
+		name = "Lykke"
+		dynasty = "af Conflens"
+		adm = 5
+		dip = 3
+		mil = 4
+		country_of_origin = TBR
+		birth_date = 1353.4.15
+		death_date = 1413.4.15
+		female = yes
+		religion = catholic
+		culture = danish
+	}
+	add_queen_personality = craven_personality
+	add_queen_personality = strict_personality
+}
+1392.1.7= {
+	add_prestige = 31
+	add_treasury = 52
+}

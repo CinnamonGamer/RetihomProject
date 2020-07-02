@@ -1,0 +1,35 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 2
+technology_group = western
+religion = catholic
+primary_culture = leonese
+capital = 208
+1392.1.7= {
+	monarch = {
+		name = "(Regency Council)"
+		adm = 1
+		dip = 1
+		mil = 1
+		birth_date = 1.1.1
+		regent = yes
+		religion = catholic
+		culture = leonese
+	}
+	heir = {
+		name = "Gutierre III"
+		dynasty = "del Carpio"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 1384.3.3
+		death_date = 1449.3.3
+		claim = 89
+		religion = catholic
+		culture = leonese
+	}
+}
+1392.1.7= {
+	add_prestige = 25
+	add_treasury = 49
+}

@@ -1,0 +1,40 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 2
+technology_group = sub_saharan
+religion = catholic
+primary_culture = bilala
+capital = 2287
+1392.1.7= {
+	monarch = {
+		name = "Toholjo"
+		dynasty = "Beri"
+		adm = 2
+		dip = 2
+		mil = 3
+		birth_date = 1348.12.4
+		religion = catholic
+		culture = bilala
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Helene"
+		dynasty = "Clintonische"
+		adm = 3
+		dip = 3
+		mil = 4
+		country_of_origin = KBO
+		birth_date = 1350.6.15
+		death_date = 1410.6.15
+		female = yes
+		religion = catholic
+		culture = alsatian
+	}
+	add_queen_personality = tactical_genius_personality
+	add_queen_personality = zealot_personality
+}
+1392.1.7= {
+	add_prestige = 63
+	add_treasury = 60
+}

@@ -1,0 +1,39 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+technology_group = muslim
+religion = catholic
+primary_culture = cuman
+capital = 299
+1392.1.7= {
+	monarch = {
+		name = "Koza"
+		dynasty = "Kozaid"
+		adm = 3
+		dip = 3
+		mil = 5
+		birth_date = 1363.10.25
+		religion = catholic
+		culture = cuman
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = tolerant_personality
+	queen = {
+		name = "Çiltanesi"
+		adm = 5
+		dip = 4
+		mil = 3
+		country_of_origin = Z22
+		birth_date = 1365.8.1
+		death_date = 1425.8.1
+		female = yes
+		religion = catholic
+		culture = cuman
+	}
+	add_queen_personality = righteous_personality
+	add_queen_personality = zealot_personality
+}
+1392.1.7= {
+	add_prestige = 34
+	add_treasury = 50
+}

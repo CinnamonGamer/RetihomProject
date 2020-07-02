@@ -1,0 +1,102 @@
+graphical_culture = westerngfx
+color = { 217 144 88 }
+revolutionary_colors = { 13 10 5 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+historical_units = {
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_dragoon
+	muslim_mass_infantry
+	persian_cavalry_charge
+	persian_footsoldier
+	persian_rifle
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+}
+monarch_names = {
+	"Ahmad #1" = 10
+	"Ahmet #1" = 10
+	"Aldonza #0" = -1
+	"Alp Arslan #1" = 10
+	"Anushirvan Sharaf #1" = 10
+	"Aram #0" = 0
+	"Assad #1" = 10
+	"Belek #1" = 10
+	"Bisutun #1" = 10
+	"Dabuya #1" = 10
+	"Dadhburzmihr #1" = 10
+	"Diego #1" = 10
+	"Ekbert #1" = 10
+	"Faramarz #1" = 10
+	"Farrukhan #1" = 10
+	"Feriburz #1" = 10
+	"Fezl #1" = 10
+	"Gavbarih #1" = 10
+	"Ghiyasaddin #1" = 10
+	"Ghobad #1" = 10
+	"Gutierre #0" = 0
+	"Hasan #1" = 10
+	"Hedayat #1" = 10
+	"Isabel #0" = -1
+	"Javeed #1" = 10
+	"Khalil #1" = 10
+	"Khurshid #1" = 10
+	"Kilij Arslan #1" = 10
+	"Lope #0" = 0
+	"Luis #0" = 0
+	"Manuchihr #1" = 10
+	"Mardavij #1" = 10
+	"Mayor #0" = -1
+	"Parviz #1" = 10
+	"Qabus #1" = 10
+	"Savur #1" = 10
+	"Sorkhab #1" = 10
+	"Suero #0" = 0
+	"Suleyman #1" = 10
+	"Tolun #1" = 10
+	"Vushmgir #1" = 10
+	"Xwedayar #2" = 10
+	"Yakut #1" = 10
+}
+leader_names = {
+	"Ardashir"
+	"Buzurg"
+	"Dabuya"
+	"Dadhburzmihr"
+	"Farrukhan"
+	"Hassan"
+	"Kamal"
+	"Khurshid"
+	"Kiya"
+	"Mazyar"
+	"Qarin"
+	"Quhyar"
+	"Rida"
+	"Rustam"
+	"Shahriyar"
+	"Vindadhhurmuzd"
+}
+ship_names = {
+	"Amol"
+	"Ardashir"
+	"Astarabad"
+	"Chalus"
+	"Farim"
+	"Kelar"
+	"Lahican"
+	"Mazyar"
+	"Natel"
+	"Rustam"
+	"Vindadhhurmuzd"
+}

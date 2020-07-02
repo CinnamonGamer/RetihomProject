@@ -1,0 +1,76 @@
+graphical_culture = muslimgfx
+color = { 191 68 86 }
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	influence_ideas
+	diplomatic_ideas
+	quantity_ideas
+	economic_ideas
+}
+historical_units = {
+	ali_bey_reformed_infantry
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_dragoon
+	muslim_mass_infantry
+}
+monarch_names = {
+	"Abba #0" = 0
+	"Aghlab #1" = 10
+	"Amsha #0" = -1
+	"Asenet #0" = -1
+	"Azam #1" = 10
+	"Burhanaddin #1" = 10
+	"Hasan #1" = 10
+	"Hussayn #1" = 10
+	"Isa #1" = 10
+	"Issa #1" = 10
+	"Maryam #0" = -1
+	"Muhammad #1" = 10
+	"Muhammed #1" = 10
+	"Mukhtar #1" = 10
+	"Nasr #1" = 10
+	"Nizam #6" = 10
+	"Paymaneh #0" = -1
+	"Qawurd #1" = 10
+	"Shameem #0" = -1
+	"Talib #0" = 0
+	"Ubayd #0" = 0
+	"Yahya #1" = 10
+	"Zarrindokht #0" = -1
+}
+leader_names = {
+	"Abbas"
+	"Chammas"
+	"Farhat"
+	"Hammoud"
+	"Ibrahim"
+	"Khalil"
+	"Mansour"
+	"Saleh"
+	"Taleb"
+	"Youssef"
+}
+ship_names = {
+	"Harrat Al-Buqum"
+	"Harrat Al-Kishb"
+	"Harrat Hadan"
+	"Harrat Khaybar"
+	"Harrat Kurama"
+	"Harrat Nawasif"
+	"Harrat Rahat"
+	"Harrat al-Unayyir"
+	"Hijaz"
+	"Jabal Abu Hasan"
+	"Jabal Baydan"
+	"Jabal Sawda"
+	"Jabal al-Jurayrah"
+	"Jeddah"
+	"Mecca"
+	"Medina"
+}

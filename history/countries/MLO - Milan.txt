@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = austrian
+capital = 4740
+1392.1.7= {
+	monarch = {
+		name = "Hans"
+		dynasty = "von Milano"
+		adm = 3
+		dip = 3
+		mil = 5
+		birth_date = 1346.7.16
+		religion = catholic
+		culture = austrian
+	}
+	add_ruler_personality = kind_hearted_personality
+	add_ruler_personality = secretive_personality
+	queen = {
+		name = "Caracosa"
+		dynasty = "Brunonen"
+		adm = 4
+		dip = 2
+		mil = 3
+		country_of_origin = MLO
+		birth_date = 1345.4.21
+		death_date = 1405.4.21
+		female = yes
+		religion = catholic
+		culture = alsatian
+	}
+	add_queen_personality = craven_personality
+	add_queen_personality = tolerant_personality
+	heir = {
+		name = "Gotthard"
+		monarch_name = "Gotthard"
+		dynasty = "von Milano"
+		adm = 2
+		dip = 3
+		mil = 4
+		birth_date = 1383.1.5
+		death_date = 1448.1.5
+		claim = 89
+		religion = catholic
+		culture = alsatian
+	}
+	add_heir_personality = charismatic_negotiator_personality
+	add_heir_personality = kind_hearted_personality
+}
+1392.1.7= {
+	add_prestige = 27
+	add_treasury = 65
+}

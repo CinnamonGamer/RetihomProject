@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = rajput_kingdom
+government_rank = 1
+technology_group = indian
+religion = jain
+primary_culture = vindhyan
+capital = 559
+fixed_capital = 559
+1392.1.7= {
+	monarch = {
+		name = "Jaipal"
+		dynasty = "Nushki"
+		adm = 5
+		dip = 3
+		mil = 5
+		birth_date = 1362.6.7
+		religion = jain
+		culture = vindhyan
+	}
+	add_ruler_personality = fierce_negotiator_personality
+	add_ruler_personality = tactical_genius_personality
+	queen = {
+		name = "Mahendrani"
+		adm = 5
+		dip = 0
+		mil = 6
+		country_of_origin = Y42
+		birth_date = 1354.2.10
+		death_date = 1414.2.10
+		female = yes
+		religion = vajrayana
+		culture = bihari
+	}
+	add_queen_personality = midas_touched_personality
+	add_queen_personality = scholar_personality
+	heir = {
+		name = "Kanwar"
+		monarch_name = "Kanwar"
+		dynasty = "Nushki"
+		adm = 0
+		dip = 0
+		mil = 0
+		birth_date = 1391.3.4
+		death_date = 1456.3.4
+		female = yes
+		claim = 89
+		religion = jain
+		culture = pahari
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1392.1.7= {
+	add_prestige = 37
+	add_treasury = 67
+}

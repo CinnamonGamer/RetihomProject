@@ -1,0 +1,55 @@
+government = tribal
+add_government_reform = great_mongol_state_reform
+government_rank = 2
+technology_group = chinese
+religion = vajrayana
+primary_culture = khalkha
+capital = 4678
+1392.1.7= {
+	monarch = {
+		name = "Bolkhadar"
+		dynasty = "Bolormaa"
+		adm = 3
+		dip = 3
+		mil = 2
+		birth_date = 1358.12.26
+		religion = vajrayana
+		culture = khalkha
+	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = tolerant_personality
+	queen = {
+		name = "Alan"
+		dynasty = "Bolormaa"
+		adm = 2
+		dip = 1
+		mil = 2
+		country_of_origin = MGE
+		birth_date = 1362.11.27
+		death_date = 1422.11.27
+		female = yes
+		religion = vajrayana
+		culture = astrakhani
+	}
+	add_queen_personality = kind_hearted_personality
+	add_queen_personality = tactical_genius_personality
+	heir = {
+		name = "Suyiketu"
+		monarch_name = "Suyiketu II"
+		dynasty = "Bolormaa"
+		adm = 4
+		dip = 4
+		mil = 3
+		birth_date = 1381.7.18
+		death_date = 1446.7.18
+		claim = 89
+		religion = vajrayana
+		culture = astrakhani
+	}
+	add_heir_personality = charismatic_negotiator_personality
+	add_heir_personality = naive_personality
+}
+1392.1.7= {
+	add_prestige = 33
+	add_treasury = 48
+}

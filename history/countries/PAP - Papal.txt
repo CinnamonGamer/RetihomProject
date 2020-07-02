@@ -1,0 +1,11 @@
+government = theocracy
+add_government_reform = papacy_reform
+government_rank = 2
+technology_group = western
+religion = catholic
+primary_culture = umbrian
+capital = 118
+1392.1.7= {
+	add_prestige = 62
+	add_treasury = 53
+}

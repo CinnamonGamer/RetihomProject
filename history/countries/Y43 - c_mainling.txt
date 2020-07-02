@@ -1,0 +1,39 @@
+government = republic
+add_government_reform = peasants_republic
+government_rank = 1
+technology_group = chinese
+religion = vajrayana
+primary_culture = tibetan
+1392.1.7= {
+	monarch = {
+		name = "Tsentsän"
+		dynasty = "Huldi"
+		adm = 3
+		dip = 3
+		mil = 4
+		birth_date = 1365.6.18
+		religion = vajrayana
+		culture = tibetan
+	}
+	add_ruler_personality = malevolent_personality
+	add_ruler_personality = obsessive_perfectionist_personality
+	queen = {
+		name = "Devitara"
+		dynasty = "Riwoqê"
+		adm = 3
+		dip = 2
+		mil = 6
+		country_of_origin = Y43
+		birth_date = 1374.11.11
+		death_date = 1434.11.11
+		female = yes
+		religion = vajrayana
+		culture = tibetan
+	}
+	add_queen_personality = intricate_web_weaver_personality
+	add_queen_personality = strict_personality
+}
+1392.1.7= {
+	add_prestige = 19
+	add_treasury = 59
+}

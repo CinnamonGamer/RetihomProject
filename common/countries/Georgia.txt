@@ -1,0 +1,211 @@
+graphical_culture = westerngfx
+color = { 190 35 37 }
+revolutionary_colors = { 1 0 4 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	quantity_ideas
+}
+historical_units = {
+	eastern_carabinier
+	eastern_knights
+	eastern_medieval_infantry
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	muscovite_caracolle
+	muscovite_cossack
+	muscovite_musketeer
+	muscovite_soldaty
+	russian_cuirassier
+	russian_green_coat
+	russian_lancer
+	russian_mass
+	russian_petrine
+	slavic_stradioti
+}
+monarch_names = {
+	"Adanarse #1" = 10
+	"Adelinde #1" = -1
+	"Alp Arslan #1" = 10
+	"Archili #0" = 0
+	"Arslan Shah #1" = 10
+	"Ashot #1" = 10
+	"Bagrat #5" = 10
+	"Barakat #1" = 10
+	"Ciuccio #1" = 10
+	"Davit #3" = 10
+	"Dietpold #1" = 10
+	"Enzio #0" = 0
+	"Erekle #0" = 0
+	"Gabrieli #0" = 0
+	"Gilberto #0" = 0
+	"Giorgi #2" = 10
+	"Gurgen #2" = 10
+	"Iacopo #1" = 10
+	"Inga #1" = -1
+	"Johann #0" = 0
+	"Mariami #0" = -1
+	"Markward #1" = 10
+	"Mzhezh #0" = 0
+	"Rade #1" = -1
+	"Rajiya #1" = -1
+	"Sa'ad #1" = 10
+	"Salvatore #1" = 10
+	"Sumbat #1" = 10
+	"Teimuraz #0" = 0
+	"Tolun #1" = 10
+	"Virginia #0" = -1
+}
+leader_names = {
+	"Abashidze"
+	"Abkhazi"
+	"Agiashvili"
+	"Amilakhori"
+	"Amilakhvari"
+	"Amirejibi"
+	"Anchabadze"
+	"Andronikashvili"
+	"Apakidze"
+	"Avilishvili"
+	"Babadishvili"
+	"Baratashvili"
+	"Bebutashvili"
+	"Begtabegishvili"
+	"Chavchavadze"
+	"Cherkezeshvili"
+	"Chichua"
+	"Chijavadze"
+	"Chikovani"
+	"Chkheidze"
+	"Chkhetidze"
+	"Cholokashvili"
+	"Dadeshkeliani"
+	"Dadiani"
+	"Diasamidze"
+	"Gabashvili"
+	"Gaganidze"
+	"Gegechkori"
+	"Gelovani"
+	"Gogibashvili"
+	"Gogorishvili"
+	"Guramishvili"
+	"Gurgenidze"
+	"Gurieli"
+	"Iashvili"
+	"Jandieri"
+	"Javakhishvili"
+	"Jorjadze"
+	"Kherkheulidze"
+	"Khildirbegashvili"
+	"Kobulashvili"
+	"Kobulisdze"
+	"Kopasdze"
+	"Kvenipneveli"
+	"Lionidze"
+	"Lortkipanidze"
+	"Machavariani"
+	"Machutadze"
+	"Maghalashvili"
+	"Mikeladze"
+	"Mkheidze"
+	"Mukhranbatoni"
+	"Mukhrani"
+	"Nakashidze"
+	"Nikoladze"
+	"Nizharadze"
+	"Orbeliani"
+	"Palavandishvili"
+	"Panaskerteli"
+	"Ratishvili"
+	"Robatishvili"
+	"Rusishvili"
+	"Shaburidze"
+	"Shalikashvili"
+	"Shervashidze"
+	"Sidamoni"
+	"Solagashvili"
+	"Sologashvili"
+	"Sumbatishvili"
+	"Tavdgiridze"
+	"Tsereteli"
+	"Tsitsishvili"
+	"Tsulukidze"
+	"Tukhareli"
+	"Tumanisdze"
+	"Turkestanishvili"
+	"Tusishvili"
+	"Vachnadze"
+}
+ship_names = {
+	"Abkhazeti"
+	"Abo"
+	"Amirani"
+	"Anakopia"
+	"Apsaros"
+	"Aragvi"
+	"Argo"
+	"Armazi"
+	"Artaani"
+	"Ateni Sioni"
+	"Avtandil"
+	"Batomi"
+	"Bichvinta"
+	"Bodbe"
+	"Colchis"
+	"Davit Aghmashenebeli"
+	"Davit Gareja"
+	"Demetre Tavdadebuli"
+	"Didgori"
+	"Dioscurias"
+	"Dmanisi"
+	"Geguti"
+	"Gelati"
+	"Giorgi V Brtskinvale"
+	"Gori"
+	"Gremi"
+	"Hereti"
+	"Iberia"
+	"Jvari"
+	"Jvari Vazisa"
+	"Kartlos"
+	"Khornabuji"
+	"Kutaisi"
+	"Lasharisjvari"
+	"Lore"
+	"Mtkvari"
+	"Mtskheta"
+	"Narikala"
+	"Ninotsminda"
+	"Okros Satsmisi"
+	"Parnavaz"
+	"Petre Iberi"
+	"Phasis"
+	"Pityus"
+	"Racha"
+	"Rioni"
+	"Ruisi"
+	"Seti"
+	"Shota Rustaveli"
+	"Skhalta"
+	"Svaneti"
+	"Svetitskhoveli"
+	"Tamar"
+	"Tashiri"
+	"Tbilisi"
+	"Telavi"
+	"Tetri Giorgi"
+	"Tsminda Giorgi"
+	"Tsotne Dadiani"
+	"Uplistsikhe"
+	"Urbnisi"
+	"Ushba"
+	"Vakhtang Gorgasali"
+	"Vardzia"
+	"Venakhi"
+}

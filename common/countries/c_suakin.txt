@@ -1,0 +1,8 @@
+graphical_culture = muslimgfx
+color = { 176 85 35 }
+monarch_names = {
+	"Amunah #0" = 0
+	"Guta #0" = -1
+	"Nesanel #0" = 0
+	"Yeintil #0" = -1
+}

@@ -1,0 +1,25 @@
+graphical_culture = muslimgfx
+color = { 200 130 70 }
+monarch_names = {
+	"Anar #1" = 10
+	"Barghut #0" = 0
+	"Bujeg #0" = 0
+	"Bumphulwa #0" = -1
+	"Buquq #0" = 0
+	"Burandokht #0" = -1
+	"Chormakhan #0" = 0
+	"Chotan #0" = -1
+	"Dagun #0" = 0
+	"Ershen #0" = -1
+	"Ilçur #0" = 0
+	"Khadagan #0" = -1
+	"Khagatai #0" = 0
+	"Kiräsiz #0" = 0
+	"Moyançur #0" = 0
+	"Nayaga #1" = 10
+	"Salïndï #1" = 10
+	"Teçush #0" = -1
+	"Yollughtegin #0" = 0
+	"Çeçek #0" = -1
+	"Ögüne #1" = 10
+}

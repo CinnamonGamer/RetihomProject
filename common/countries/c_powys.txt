@@ -1,0 +1,8 @@
+graphical_culture = westerngfx
+color = { 175 90 20 }
+monarch_names = {
+	"Ecgwyn #0" = -1
+	"Petre #0" = 0
+	"Ælfgar #0" = 0
+	"Ælfstan #0" = 0
+}

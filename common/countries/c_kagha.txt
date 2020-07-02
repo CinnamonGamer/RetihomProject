@@ -1,0 +1,20 @@
+graphical_culture = africangfx
+color = { 72 115 193 }
+monarch_names = {
+	"Alima #0" = -1
+	"Bannu #0" = 0
+	"Birama #0" = 0
+	"Dankaran #0" = 0
+	"Fatim #0" = -1
+	"Fatoumata #0" = -1
+	"Fädazu #0" = 0
+	"Kaya #0" = 0
+	"Kisha #0" = 0
+	"Kouton #0" = -1
+	"Kukuray #0" = 0
+	"Lorane #0" = -1
+	"Majan #0" = 0
+	"Taplo #0" = -1
+	"Tarifa #0" = -1
+	"Yama #0" = 0
+}

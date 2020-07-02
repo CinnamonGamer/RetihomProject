@@ -1,0 +1,11 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 2
+technology_group = chinese
+religion = vajrayana
+primary_culture = tibetan
+capital = 678
+1392.1.7= {
+	add_prestige = 79
+	add_treasury = 58
+}

@@ -1,0 +1,27 @@
+graphical_culture = muslimgfx
+color = { 121 196 2 }
+monarch_names = {
+	"Al-Mu'tamid #1" = 10
+	"Amr #1" = 10
+	"Belet #0" = -1
+	"Binyamin #2" = 10
+	"Dimi #1" = 10
+	"Elazar #1" = 10
+	"Hisn ad-Dawlah Haydar #1" = 10
+	"Isaac #0" = 0
+	"Khalil #2" = 10
+	"Machir #1" = 10
+	"Malik #1" = 10
+	"Murshid #1" = 10
+	"Musa #1" = 10
+	"Nadr #1" = 10
+	"Natan #1" = 10
+	"Sa'id #1" = 10
+	"Saadiah #1" = 10
+	"Scolaster #0" = -1
+	"Shluida #1" = -1
+	"Shoinlin #0" = -1
+	"Yahya #1" = 10
+	"Zuiskind #1" = 10
+	"al-Mustansir #1" = 10
+}

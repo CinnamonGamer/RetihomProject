@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 2
+technology_group = chinese
+religion = vajrayana
+primary_culture = tibetan
+capital = 2182
+1392.1.7= {
+	monarch = {
+		name = "Changchub"
+		dynasty = "Monyul"
+		adm = 5
+		dip = 4
+		mil = 6
+		birth_date = 1363.1.7
+		religion = vajrayana
+		culture = tibetan
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = pious_personality
+	queen = {
+		name = "Dehanagadevi"
+		dynasty = "Kaivarta"
+		adm = 4
+		dip = 4
+		mil = 4
+		country_of_origin = Z32
+		birth_date = 1362.11.10
+		death_date = 1422.11.10
+		female = yes
+		religion = vajrayana
+		culture = bihari
+	}
+	add_queen_personality = secretive_personality
+	add_queen_personality = silver_tongue_personality
+	heir = {
+		name = "Changchub"
+		monarch_name = "Changchub II"
+		dynasty = "Monyul"
+		adm = 4
+		dip = 4
+		mil = 5
+		birth_date = 1380.2.17
+		death_date = 1445.2.17
+		claim = 89
+		religion = vajrayana
+		culture = tibetan
+	}
+	add_heir_personality = cruel_personality
+	add_heir_personality = kind_hearted_personality
+}
+1392.1.7= {
+	add_prestige = 25
+	add_treasury = 60
+}

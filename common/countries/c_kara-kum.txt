@@ -1,0 +1,11 @@
+graphical_culture = westerngfx
+color = { 165 243 30 }
+monarch_names = {
+	"Alonso #0" = 0
+	"Bayezid #0" = 0
+	"Enrique #0" = 0
+	"Manrique #0" = 0
+	"Ordoño #0" = 0
+	"Suleyman #0" = 0
+	"Vela #0" = 0
+}

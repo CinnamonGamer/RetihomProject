@@ -1,0 +1,247 @@
+graphical_culture = easterngfx
+color = { 197 92 106 }
+revolutionary_colors = { 5 0 5 }
+historical_idea_groups = {
+	diplomatic_ideas
+	humanist_ideas
+	trade_ideas
+	offensive_ideas
+	administrative_ideas
+	defensive_ideas
+	aristocracy_ideas
+	quality_ideas
+}
+historical_units = {
+	bardiche_infantry
+	eastern_carabinier
+	eastern_knights
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	hungarian_hussar
+	polish_hussar
+	polish_musketeer
+	polish_tercio
+	polish_winged_hussar
+	russian_cuirassier
+	russian_lancer
+	russian_mass
+	slavic_stradioti
+}
+monarch_names = {
+	"Adalbero #1" = 10
+	"Anastasia #1" = -1
+	"Anna #0" = -1
+	"Bezprym #1" = 10
+	"Bo #2" = 10
+	"Boleslaw #2" = 10
+	"Daumantas #0" = 0
+	"Dobrava #0" = -1
+	"Giat #0" = 0
+	"Grethe #1" = -1
+	"Kaydum #0" = 0
+	"Kazimierz #2" = 10
+	"Konrad #1" = 10
+	"Kure #0" = 0
+	"Matfei #0" = 0
+	"Mieszko #2" = 10
+	"Pawel #1" = 10
+	"Pridbjørn #1" = 10
+	"Saksa #0" = 0
+	"Svend #1" = 10
+	"Vasiliy #0" = 0
+	"Verkhoslava #0" = -1
+	"Vsevolod #0" = 0
+	"Wszemila #1" = -1
+	"Yaropolk #0" = 0
+	"Yechiel #0" = 0
+}
+leader_names = {
+	"Arciszewski"
+	"Benyowski"
+	"Bidzinski"
+	"Bielinski"
+	"Boner"
+	"Branicki"
+	"Brzostowski"
+	"Buczacki"
+	"Butler"
+	"Cetner"
+	"Chlewicki"
+	"Chodecki"
+	"Chometowski"
+	"Czapski"
+	"Czarniecki"
+	"Czarnkowski"
+	"Dambski"
+	"Denhoff"
+	"Drzewicki"
+	"Dunin"
+	"Dzialynski"
+	"Dzieduszycki"
+	"Firlej"
+	"Fredro"
+	"Gembicki"
+	"Gosiewski"
+	"Grabowski"
+	"Grodzicki"
+	"Grudzinski"
+	"Grzymultowski"
+	"Gurowski"
+	"Górka"
+	"Herburt"
+	"Houwaldt"
+	"Hylzen"
+	"Jablonowski"
+	"Jaroslawski"
+	"Jazlowiecki"
+	"Jordan"
+	"Judycki"
+	"Kalinowski"
+	"Kamieniecki"
+	"Karnkowski"
+	"Kazanowski"
+	"Kmita"
+	"Komorowski"
+	"Koniecpolski"
+	"Korycki"
+	"Krasicki"
+	"Krasinski"
+	"Kurozwecki"
+	"Kwilecki"
+	"Lacki"
+	"Lanckoronski"
+	"Latalski"
+	"Leszczynski"
+	"Ligeza"
+	"Lipski"
+	"Lisowski"
+	"Lubomirski"
+	"Lubranski"
+	"Malachowski"
+	"Malski"
+	"Matczynski"
+	"Melsztynski"
+	"Mielecki"
+	"Mielzynski"
+	"Mlodziejowski"
+	"Mniszech"
+	"Morsztyn"
+	"Mycielski"
+	"Nalecz"
+	"Niesiolowski"
+	"Odrowaz"
+	"Olesnicki"
+	"Opacki"
+	"Oporowski"
+	"Ossolinski"
+	"Ostroróg"
+	"Ostrowski"
+	"Ozarowski"
+	"Paniewski"
+	"Piaseczynski"
+	"Pilecki"
+	"Pociej"
+	"Poniatowski"
+	"Poninski"
+	"Potocki"
+	"Prazmowski"
+	"Przebendowski"
+	"Przyjemski"
+	"Pulaski"
+	"Raczynski"
+	"Radziejowski"
+	"Rej"
+	"Rytwianski"
+	"Rzewuski"
+	"Scibor"
+	"Siemienowicz"
+	"Sieniawski"
+	"Sierakowski"
+	"Skarbek"
+	"Sobieski"
+	"Soltyk"
+	"Stadnicki"
+	"Sulkowski"
+	"Szafraniec"
+	"Szembek"
+	"Szydlowiecki"
+	"Tarlo"
+	"Tarnowski"
+	"Teczynski"
+	"Tomicki"
+	"Tyzenhaus"
+	"Uchanski"
+	"Walewski"
+	"Weyher"
+	"Wielopolski"
+	"Wierzbowski"
+	"Wodzicki"
+	"Wolski"
+	"Wyhowski"
+	"Zacwilchowski"
+	"Zaluski"
+	"Zamoyski"
+	"Zborowski"
+	"Zebrzydowski"
+}
+ship_names = {
+	"Arka Noego"
+	"Belzkie"
+	"Bialy Lew"
+	"Bialy Orzel"
+	"Braclawskie"
+	"Brzesko-Kujawskie"
+	"Burza"
+	"Charitas"
+	"Chelminskie"
+	"Czarny Kruk"
+	"Czarny Orzel"
+	"Czernichowskie"
+	"Fortuna"
+	"Gnieznienskie"
+	"Gryf"
+	"Gwiazda"
+	"Inowroclawskie"
+	"Kaliskie"
+	"Kijowskie"
+	"Krakowskie"
+	"Kraków"
+	"Król Dawid"
+	"Latajacy Jelen"
+	"Leczyckie"
+	"Lubelskie"
+	"Lublin"
+	"Lwów"
+	"Malborskie"
+	"Maly Bialy Orzel"
+	"Mazowieckie"
+	"Niewrazliwy"
+	"Nowy Czarny Orzel"
+	"Panna Wodna"
+	"Plockie"
+	"Plomien"
+	"Podlaskie"
+	"Podolskie"
+	"Poznanskie"
+	"Prorok Samuel"
+	"Rawskie"
+	"Ruskie"
+	"Rycerz Swiety Jerzy"
+	"Sandomierskie"
+	"Sieradzkie"
+	"Strzelec"
+	"Suwerenny"
+	"Swiety Kazimierz"
+	"Swiety Piotr"
+	"Warminskie"
+	"Warszawa"
+	"Wielkie Slonce"
+	"Wodnik"
+	"Wolynskie"
+	"Zwyciestwo"
+	"Zólty Lew"
+}
+army_names = {
+	"Armia z $PROVINCE$"
+}

@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = saxon
+capital = 59
+1392.1.7= {
+	monarch = {
+		name = "Ernst"
+		dynasty = "von Babenberg"
+		adm = 3
+		dip = 3
+		mil = 2
+		birth_date = 1335.8.18
+		religion = catholic
+		culture = saxon
+	}
+	add_ruler_personality = greedy_personality
+	add_ruler_personality = tolerant_personality
+	queen = {
+		name = "Adela"
+		dynasty = "Babenberg"
+		adm = 2
+		dip = 3
+		mil = 3
+		country_of_origin = Z82
+		birth_date = 1341.5.15
+		death_date = 1401.5.15
+		female = yes
+		religion = catholic
+		culture = alsatian
+	}
+	add_queen_personality = malevolent_personality
+	add_queen_personality = tolerant_personality
+	heir = {
+		name = "Ernst"
+		monarch_name = "Ernst II"
+		dynasty = "von Babenberg"
+		adm = 3
+		dip = 4
+		mil = 4
+		birth_date = 1352.11.3
+		death_date = 1417.11.3
+		claim = 89
+		religion = catholic
+		culture = alsatian
+	}
+	add_heir_personality = infertile_personality
+	add_heir_personality = midas_touched_personality
+}
+1392.1.7= {
+	add_prestige = 66
+	add_treasury = 59
+}

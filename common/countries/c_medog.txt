@@ -1,0 +1,25 @@
+graphical_culture = asiangfx
+color = { 129 50 9 }
+monarch_names = {
+	"Beslik #0" = -1
+	"Chökyi #0" = -1
+	"Dianni #0" = -1
+	"Dodai #0" = 0
+	"Drönma #0" = -1
+	"Kyeden #0" = -1
+	"Kyi #0" = -1
+	"Marjan #0" = -1
+	"Nyitri #0" = -1
+	"Nytari #0" = 0
+	"Orgyen #0" = -1
+	"Sumnang #0" = 0
+	"Trimang #0" = 0
+	"Trimonyen #0" = -1
+	"Trinring #0" = 0
+	"Trinyen #0" = 0
+	"Tritsen #0" = 0
+	"Trongzhi #0" = 0
+	"Tubten #0" = -1
+	"Yülsung #0" = 0
+	"Çañ #0" = 0
+}

@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = austrian
+capital = 108
+1392.1.7= {
+	monarch = {
+		name = "Liudolf"
+		dynasty = "von Heinsberg"
+		adm = 3
+		dip = 3
+		mil = 2
+		birth_date = 1355.8.20
+		religion = catholic
+		culture = austrian
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Eadhburh"
+		dynasty = "Ætheling"
+		adm = 3
+		dip = 3
+		mil = 2
+		country_of_origin = VRN
+		birth_date = 1355.3.11
+		death_date = 1415.3.11
+		female = yes
+		religion = fraticelli
+		culture = anglo_saxon
+	}
+	add_queen_personality = expansionist_personality
+	add_queen_personality = tactical_genius_personality
+	heir = {
+		name = "Liudolf"
+		monarch_name = "Liudolf II"
+		dynasty = "von Heinsberg"
+		adm = 5
+		dip = 4
+		mil = 5
+		birth_date = 1372.7.25
+		death_date = 1437.7.25
+		claim = 89
+		religion = catholic
+		culture = alsatian
+	}
+	add_heir_personality = midas_touched_personality
+	add_heir_personality = tolerant_personality
+}
+1392.1.7= {
+	add_prestige = 54
+	add_treasury = 65
+}

@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = eastern
+religion = orthodox
+primary_culture = greek
+capital = 418
+fixed_capital = 418
+1392.1.7= {
+	monarch = {
+		name = "Valerios"
+		dynasty = "ve Kyrrhos"
+		adm = 4
+		dip = 2
+		mil = 4
+		birth_date = 1344.7.10
+		religion = orthodox
+		culture = greek
+	}
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = tolerant_personality
+	queen = {
+		name = "Minna"
+		dynasty = "of Basra"
+		adm = 2
+		dip = 4
+		mil = 2
+		country_of_origin = Y46
+		birth_date = 1340.12.13
+		death_date = 1400.12.13
+		female = yes
+		religion = orthodox
+		culture = goths
+	}
+	add_queen_personality = greedy_personality
+	add_queen_personality = kind_hearted_personality
+	heir = {
+		name = "Anthemios"
+		monarch_name = "Anthemios"
+		dynasty = "ve Kyrrhos"
+		adm = 4
+		dip = 6
+		mil = 2
+		birth_date = 1368.4.11
+		death_date = 1433.4.11
+		claim = 89
+		religion = orthodox
+		culture = goths
+	}
+	add_heir_personality = intricate_web_weaver_personality
+	add_heir_personality = secretive_personality
+}
+1392.1.7= {
+	add_prestige = 61
+	add_treasury = 69
+}

@@ -1,0 +1,11 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 2
+technology_group = eastern
+religion = orthodox
+primary_culture = greek
+capital = 144
+1392.1.7= {
+	add_prestige = 54
+	add_treasury = 0
+}

@@ -1,0 +1,100 @@
+graphical_culture = westerngfx
+color = { 191 110 62 }
+revolutionary_colors = { 8 0 5 }
+historical_idea_groups = {
+	maritime_ideas
+	defensive_ideas
+	religious_ideas
+	expansion_ideas
+	administrative_ideas
+	offensive_ideas
+	trade_ideas
+	economic_ideas
+}
+historical_units = {
+	ali_bey_reformed_infantry
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_dragoon
+	muslim_mass_infantry
+}
+monarch_names = {
+	"Abbad #1" = 10
+	"Abdul #1" = 10
+	"Abdul-Razzaq #0" = 0
+	"Abu-Bakr #2" = 10
+	"Adalbert #0" = 0
+	"Akutla #1" = 10
+	"Al-Qasim Kannun #1" = 10
+	"Ali #1" = 10
+	"Aléarde #0" = -1
+	"Amellal #1" = 10
+	"Anselm #0" = 0
+	"Az'regh #1" = 10
+	"Bachman #1" = 10
+	"Badra #0" = -1
+	"Balashk #0" = 0
+	"Beddis #1" = 10
+	"Elisabeth #0" = -1
+	"Eufemie #0" = -1
+	"Gomes #0" = 0
+	"Heilwiva #0" = -1
+	"Ibrahim #1" = 10
+	"Idris #2" = 10
+	"Imagina #0" = -1
+	"Is'mail #1" = 10
+	"Kuno #0" = 0
+	"Layla #0" = -1
+	"Meinhard #0" = 0
+	"Mubashir #1" = 10
+	"Muhammad #1" = 10
+	"Pedro #1" = 10
+	"Radbot #2" = 10
+	"Rodrigo #1" = 10
+	"Tagwillult #0" = -1
+	"Tarifa #0" = -1
+	"Umar #2" = 10
+	"Uregh #1" = 10
+	"Welf #1" = 10
+	"Yahya #4" = 10
+	"Yasmin #0" = -1
+	"Yonefij #0" = -1
+	"Yugerten #1" = 10
+}
+leader_names = {
+	"Alami"
+	"Arazi"
+	"Barek"
+	"Behar"
+	"Berui"
+	"Haida"
+	"Lahsini"
+	"Sahiri"
+	"Sellami"
+	"Skah"
+}
+ship_names = {
+	"Afuww"
+	"Badi"
+	"Baqi"
+	"Darr"
+	"Fa'uf"
+	"Fazl Azim"
+	"Ghani"
+	"Hadi"
+	"Jalal Ikram"
+	"Jami"
+	"Malik Mulk"
+	"Mani"
+	"Mughni"
+	"Muntaqim"
+	"Muqsit"
+	"Nafi"
+	"Nur"
+	"Rashid"
+	"Sabur"
+	"Tawwab"
+	"Warith"
+}

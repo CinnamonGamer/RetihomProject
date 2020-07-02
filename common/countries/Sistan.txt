@@ -1,0 +1,78 @@
+graphical_culture = indiangfx
+color = { 224 74 54 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	administrative_ideas
+}
+historical_units = {
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_dragoon
+	muslim_mass_infantry
+	persian_cavalry_charge
+	persian_footsoldier
+	persian_rifle
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+}
+monarch_names = {
+	"Ahmad #1" = 10
+	"Akal #0" = -1
+	"Alptigin #1" = 10
+	"Atittapatâriyâr #0" = -1
+	"Aytekin #1" = 10
+	"Bachraj #3" = 10
+	"Bhuyikadevi #0" = -1
+	"Devavati #0" = -1
+	"Dilippal #0" = 0
+	"Guvaka #0" = 0
+	"Jagatpal #0" = 0
+	"Kemal #1" = 10
+	"Kurboga #1" = 10
+	"Masud #4" = 10
+	"Nagarjuna #0" = 0
+	"Naradeva #0" = 0
+	"Ridvan #1" = 10
+	"Rudrani #0" = -1
+	"Rupadevi #0" = -1
+	"Samanta #0" = 0
+	"Siniang #0" = -1
+	"Sonpala #0" = 0
+	"Sosamma #0" = -1
+	"Sönmez #1" = 10
+	"Udayaditya #0" = 0
+	"Xibaxiong #0" = 0
+	"Ya'qub #1" = 10
+}
+leader_names = {
+	"Ali"
+	"Bali"
+	"Karawi"
+	"Khan"
+	"Mirza"
+	"Nawaz"
+	"Quli"
+	"Tadj"
+	"Wali"
+	"Zaman"
+}
+ship_names = {
+	"Badam"
+	"Bardeskan"
+	"Dasht"
+	"Deyhuk"
+	"Germi"
+	"Jandaq"
+	"Khvor"
+	"Kondor"
+	"Tabas"
+	"Torud"
+}
